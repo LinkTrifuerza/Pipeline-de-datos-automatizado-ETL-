@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalogo>
+    <Categoria nombre="Belleza">
+        <Definicion>Productos orientados al cuidado personal, estética y bienestar.</Definicion>
+        <Productos>
+            <Producto>
+                <SKU>SKU-10002</SKU>
+                <Nombre>Crema Hidratante Facial</Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10005</SKU>
+                <Nombre>Perfume Floral Dama 100ml</Nombre>
+                <Marca>Levis</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10013</SKU>
+                <Nombre>Secador de Cabello Iónico</Nombre>
+                <Marca>Sony</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10040</SKU>
+                <Nombre>Kit de Maquillaje Profesional</Nombre>
+                <Marca>Under Armour</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10047</SKU>
+                <Nombre>Set de Brochas Cosméticas</Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10065</SKU>
+                <Nombre>Sérum Ácido Hialurónico</Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10140</SKU>
+                <Nombre>  Kit de Maquillaje Profesional  </Nombre>
+                <Marca>Sony</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10539</SKU>
+                <Nombre>  Sérum Ácido Hialurónico  </Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10696</SKU>
+                <Nombre>  Crema Hidratante Facial  </Nombre>
+                <Marca>Adidas</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10768</SKU>
+                <Nombre>  Secador de Cabello Iónico  </Nombre>
+                <Marca>Sony</Marca>
+            </Producto>
+        </Productos>
+    </Categoria>
+    <Categoria nombre="Deportes">
+        <Definicion>Productos y accesorios relacionados con actividades deportivas y recreativas.</Definicion>
+        <Productos>
+            <Producto>
+                <SKU>SKU-10016</SKU>
+                <Nombre>  Balón de Fútbol Profesional  </Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10021</SKU>
+                <Nombre>Mancuernas de Neopreno 5kg</Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10030</SKU>
+                <Nombre>Bicicleta de Montaña R26</Nombre>
+                <Marca>Zara</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10037</SKU>
+                <Nombre>Tapete de Yoga Antideslizante</Nombre>
+                <Marca>HP</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10044</SKU>
+                <Nombre>Mochila de Senderismo 40L</Nombre>
+                <Marca>Samsung</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10080</SKU>
+                <Nombre>Botella de Agua Térmica</Nombre>
+                <Marca>Adidas</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10096</SKU>
+                <Nombre>Balón de Fútbol Profesional</Nombre>
+                <Marca>Lenovo</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10325</SKU>
+                <Nombre>  Tapete de Yoga Antideslizante  </Nombre>
+                <Marca>Samsung</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10450</SKU>
+                <Nombre>  Mancuernas de Neopreno 5kg  </Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10643</SKU>
+                <Nombre>  Bicicleta de Montaña R26  </Nombre>
+                <Marca>Adidas</Marca>
+            </Producto>
+        </Productos>
+    </Categoria>
+    <Categoria nombre="Electrónica">
+        <Definicion>Productos tecnológicos y dispositivos electrónicos para uso personal y profesional.</Definicion>
+        <Productos>
+            <Producto>
+                <SKU>SKU-10000</SKU>
+                <Nombre>Televisor Smart TV 55&quot;</Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10001</SKU>
+                <Nombre>Laptop Portátil 15.6&quot;</Nombre>
+                <Marca>Levis</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10003</SKU>
+                <Nombre>Auriculares Bluetooth inalámbricos</Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10015</SKU>
+                <Nombre>Tablet HD 10&quot;</Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10027</SKU>
+                <Nombre>  Smartphone Android 128GB  </Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10043</SKU>
+                <Nombre>  Televisor Smart TV 55&quot;  </Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10060</SKU>
+                <Nombre>Consola de Videojuegos 1TB</Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10062</SKU>
+                <Nombre>Smartphone Android 128GB</Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10173</SKU>
+                <Nombre>  Auriculares Bluetooth inalámbricos  </Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10285</SKU>
+                <Nombre>  Laptop Portátil 15.6&quot;  </Nombre>
+                <Marca>Zara</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10377</SKU>
+                <Nombre>  Tablet HD 10&quot;  </Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+        </Productos>
+    </Categoria>
+    <Categoria nombre="Hogar Y Cocina">
+        <Definicion>Categoría correspondiente a productos relacionados con hogar y cocina.</Definicion>
+        <Productos>
+            <Producto>
+                <SKU>SKU-10008</SKU>
+                <Nombre>Aspiradora Robot Inteligente</Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10011</SKU>
+                <Nombre>Cafetera de Filtro Eléctrica</Nombre>
+                <Marca>Under Armour</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10024</SKU>
+                <Nombre>Licuadora de Alta Potencia</Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10031</SKU>
+                <Nombre>Juego de Sábanas Matrimonial</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10036</SKU>
+                <Nombre>Juego de Sartenes Antiadherentes</Nombre>
+                <Marca>Adidas</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10052</SKU>
+                <Nombre>  Licuadora de Alta Potencia  </Nombre>
+                <Marca>Sony</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10056</SKU>
+                <Nombre>Cojín Decorativo Algodón</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10124</SKU>
+                <Nombre>  Aspiradora Robot Inteligente  </Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10233</SKU>
+                <Nombre>  Juego de Sábanas Matrimonial  </Nombre>
+                <Marca>Xiaomi</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10300</SKU>
+                <Nombre>  Cafetera de Filtro Eléctrica  </Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+        </Productos>
+    </Categoria>
+    <Categoria nombre="Nan">
+        <Definicion>Categoría correspondiente a productos relacionados con nan.</Definicion>
+        <Productos>
+            <Producto>
+                <SKU>SKU-10012</SKU>
+                <Nombre>Sérum Ácido Hialurónico</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10017</SKU>
+                <Nombre>Aspiradora Robot Inteligente</Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10022</SKU>
+                <Nombre>Mochila de Senderismo 40L</Nombre>
+                <Marca>Zara</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10026</SKU>
+                <Nombre>Juego de Sábanas Matrimonial</Nombre>
+                <Marca>Levis</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10034</SKU>
+                <Nombre>Jeans de Mezclilla Hombre</Nombre>
+                <Marca>Maybelline</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10051</SKU>
+                <Nombre>Juego de Sartenes Antiadherentes</Nombre>
+                <Marca>Lenovo</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10111</SKU>
+                <Nombre>Perfume Floral Dama 100ml</Nombre>
+                <Marca>Under Armour</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10114</SKU>
+                <Nombre>Cojín Decorativo Algodón</Nombre>
+                <Marca>Samsung</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10190</SKU>
+                <Nombre>  Tablet HD 10&quot;  </Nombre>
+                <Marca>Under Armour</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10201</SKU>
+                <Nombre>Vestido Casual de Verano</Nombre>
+                <Marca>Nike</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10210</SKU>
+                <Nombre>Sudadera con Capucha</Nombre>
+                <Marca>Nike</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10230</SKU>
+                <Nombre>  Laptop Portátil 15.6&quot;  </Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10237</SKU>
+                <Nombre>Licuadora de Alta Potencia</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10287</SKU>
+                <Nombre>Smartphone Android 128GB</Nombre>
+                <Marca>Samsung</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10332</SKU>
+                <Nombre>Camisa Casual Manga Larga</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10333</SKU>
+                <Nombre>Tapete de Yoga Antideslizante</Nombre>
+                <Marca>Zara</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10364</SKU>
+                <Nombre>Tablet HD 10&quot;</Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10395</SKU>
+                <Nombre>Auriculares Bluetooth inalámbricos</Nombre>
+                <Marca>Zara</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10423</SKU>
+                <Nombre>Televisor Smart TV 55&quot;</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10443</SKU>
+                <Nombre>Consola de Videojuegos 1TB</Nombre>
+                <Marca>Nike</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10480</SKU>
+                <Nombre>Kit de Maquillaje Profesional</Nombre>
+                <Marca>Lenovo</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10489</SKU>
+                <Nombre>  Bicicleta de Montaña R26  </Nombre>
+                <Marca>Zara</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10568</SKU>
+                <Nombre>Crema Hidratante Facial</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10601</SKU>
+                <Nombre>Set de Brochas Cosméticas</Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10656</SKU>
+                <Nombre>Mancuernas de Neopreno 5kg</Nombre>
+                <Marca>Samsung</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10689</SKU>
+                <Nombre>Secador de Cabello Iónico</Nombre>
+                <Marca>HP</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10754</SKU>
+                <Nombre>Laptop Portátil 15.6&quot;</Nombre>
+                <Marca>HP</Marca>
+            </Producto>
+        </Productos>
+    </Categoria>
+    <Categoria nombre="Ropa Y Calzado">
+        <Definicion>Categoría correspondiente a productos relacionados con ropa y calzado.</Definicion>
+        <Productos>
+            <Producto>
+                <SKU>SKU-10007</SKU>
+                <Nombre>Jeans de Mezclilla Hombre</Nombre>
+                <Marca>Levis</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10009</SKU>
+                <Nombre>Chaqueta de Invierno Impermeable</Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10020</SKU>
+                <Nombre>Camisa Casual Manga Larga</Nombre>
+                <Marca>Under Armour</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10023</SKU>
+                <Nombre>Vestido Casual de Verano</Nombre>
+                <Marca>Adidas</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10041</SKU>
+                <Nombre>Tenis Deportivos Running</Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10075</SKU>
+                <Nombre>  Chaqueta de Invierno Impermeable  </Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10153</SKU>
+                <Nombre>  Sudadera con Capucha  </Nombre>
+                <Marca>nan</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10281</SKU>
+                <Nombre>Sudadera con Capucha</Nombre>
+                <Marca>HP</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10304</SKU>
+                <Nombre>  Vestido Casual de Verano  </Nombre>
+                <Marca>Philips</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10592</SKU>
+                <Nombre>  Jeans de Mezclilla Hombre  </Nombre>
+                <Marca>Oster</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10672</SKU>
+                <Nombre>  Camisa Casual Manga Larga  </Nombre>
+                <Marca>Loreal</Marca>
+            </Producto>
+            <Producto>
+                <SKU>SKU-10708</SKU>
+                <Nombre>  Tenis Deportivos Running  </Nombre>
+                <Marca>Sony</Marca>
+            </Producto>
+        </Productos>
+    </Categoria>
+</Catalogo>

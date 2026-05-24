@@ -1,0 +1,841 @@
+﻿SKU,Producto,Categoria,Marca,Precio,Stock,Fecha_Ingreso,Proveedor
+SKU-10000,"Televisor Smart TV 55""",electrónica,Xiaomi,7963.19,114.0,2025-03-24,Distribuidora Comercial Integradora
+SKU-10001,"Laptop Portátil 15.6""",Electrónica,Levis,2246.89,47.0,08/04/2025,Distribuidora Nacional
+SKU-10002,Crema Hidratante Facial,Belleza,Xiaomi,1659.37,279.0,2025-07-08,Distribuidora Global S.A.
+SKU-10003,Auriculares Bluetooth inalámbricos,Electrónica,Xiaomi,11431.44,142.0,07/03/2025,Distribuidora Global S.A.
+SKU-10004,"Televisor Smart TV 55""",Electrónica,Levis,3772.83,176.0,09/10/2025,Distribuidora Sur Express
+SKU-10005,Perfume Floral Dama 100ml,Belleza,Levis,288.2,150.0,20/11/2025,Distribuidora Global S.A.
+SKU-10006,Crema Hidratante Facial,Belleza,Xiaomi,266.0,338.0,2025-04-25,Distribuidora Nacional
+SKU-10007,Jeans de Mezclilla Hombre,Ropa y Calzado,Levis,680.86,325.0,2025-06-06,Distribuidora del Norte
+SKU-10008,Aspiradora Robot Inteligente,Hogar y Cocina,,5901.71,311.0,06/11/2025,Distribuidora del Norte
+SKU-10009,Chaqueta de Invierno Impermeable,Ropa y Calzado,,668.42,327.0,,Distribuidora Global S.A.
+SKU-10010,Auriculares Bluetooth inalámbricos,Electrónica,Lenovo,2254.36,,2025-07-09,Distribuidora Comercial Integradora
+SKU-10011,Cafetera de Filtro Eléctrica,Hogar y Cocina,Under Armour,4592.24,329.0,2025-08-05,Distribuidora del Norte
+SKU-10012,Sérum Ácido Hialurónico,,Oster,1892.58,219.0,2025-10-13,Distribuidora del Norte
+SKU-10013,Secador de Cabello Iónico,Belleza,Sony,1913.63,56.0,2025-03-21,Distribuidora Sur Express
+SKU-10014,Perfume Floral Dama 100ml,BELLEZA,Levis,1015.27,,09/09/2025,Distribuidora Nacional
+SKU-10015,"Tablet HD 10""",Electrónica,Loreal,19145.63,328.0,2025-06-04,Distribuidora del Norte
+SKU-10016,  Balón de Fútbol Profesional  ,Deportes,Xiaomi,10528.86,134.0,2025-09-25,Distribuidora Nacional
+SKU-10017,Aspiradora Robot Inteligente,,Loreal,5557.94,78.0,2025-06-25,Distribuidora Comercial Integradora
+SKU-10018,"Laptop Portátil 15.6""",Electrónica,Philips,12982.23,57.0,27/06/2025,Distribuidora del Norte
+SKU-10019,Auriculares Bluetooth inalámbricos,Electrónica,Maybelline,23753.31,43.0,,Distribuidora Comercial Integradora
+SKU-10020,Camisa Casual Manga Larga,Ropa y Calzado,Under Armour,986.69,281.0,09/03/2025,Distribuidora Comercial Integradora
+SKU-10021,Mancuernas de Neopreno 5kg,Deportes,Loreal,9099.89,102.0,2025-12-10,Distribuidora Global S.A.
+SKU-10022,Mochila de Senderismo 40L,,Zara,1583.9,115.0,2025-02-11,Distribuidora Comercial Integradora
+SKU-10023,Vestido Casual de Verano,Ropa y Calzado,Adidas,,323.0,2025-01-08,Distribuidora Nacional
+SKU-10024,Licuadora de Alta Potencia,Hogar y Cocina,Loreal,2293.44,342.0,07/08/2025,Distribuidora Comercial Integradora
+SKU-10025,Secador de Cabello Iónico,Belleza,,1982.87,208.0,2025-04-04,Distribuidora Sur Express
+SKU-10026,Juego de Sábanas Matrimonial,,Levis,4308.82,27.0,21/11/2025,Distribuidora Nacional
+SKU-10027,  Smartphone Android 128GB  ,Electrónica,Xiaomi,9473.61,55.0,2025-04-07,Distribuidora Sur Express
+SKU-10028,Chaqueta de Invierno Impermeable,Ropa y Calzado,Nike,681.74,127.0,15/02/2025,Distribuidora Comercial Integradora
+SKU-10029,"Televisor Smart TV 55""",Electrónica,Under Armour,24983.14,7.0,25/02/2025,Distribuidora del Norte
+SKU-10030,Bicicleta de Montaña R26,Deportes,Zara,2682.91,205.0,2025-01-06,Distribuidora Sur Express
+SKU-10031,Juego de Sábanas Matrimonial,Hogar y Cocina,Oster,3921.47,284.0,2025-11-23,Distribuidora del Norte
+SKU-10032,Cafetera de Filtro Eléctrica,HOGAR Y COCINA,Samsung,5295.79,277.0,2025-01-24,Distribuidora Nacional
+SKU-10033,Secador de Cabello Iónico,Belleza,Loreal,2306.45,271.0,02/03/2025,Distribuidora Nacional
+SKU-10034,Jeans de Mezclilla Hombre,,Maybelline,355.34,,04/07/2025,Distribuidora Comercial Integradora
+SKU-10035,Vestido Casual de Verano,Ropa y Calzado,Maybelline,311.6,41.0,22/07/2025,Distribuidora Comercial Integradora
+SKU-10036,Juego de Sartenes Antiadherentes,Hogar y Cocina,Adidas,6092.59,160.0,2025-04-09,Distribuidora Global S.A.
+SKU-10037,Tapete de Yoga Antideslizante,Deportes,HP,11238.45,4.0,20/08/2025,Distribuidora Nacional
+SKU-10038,"Laptop Portátil 15.6""",Electrónica,Adidas,13388.29,67.0,03/06/2025,Distribuidora Global S.A.
+SKU-10039,Cafetera de Filtro Eléctrica,Hogar y Cocina,Zara,7535.96,154.0,26/10/2025,Distribuidora Nacional
+SKU-10040,Kit de Maquillaje Profesional,Belleza,Under Armour,347.71,,04/05/2025,Distribuidora Comercial Integradora
+SKU-10041,Tenis Deportivos Running,Ropa y Calzado,Oster,,175.0,22/04/2025,Distribuidora Global S.A.
+SKU-10042,Secador de Cabello Iónico,Belleza,Oster,2272.71,26.0,2025-02-21,Distribuidora Global S.A.
+SKU-10043,"  Televisor Smart TV 55""  ",Electrónica,Philips,19621.3,326.0,06/05/2025,Distribuidora Comercial Integradora
+SKU-10044,Mochila de Senderismo 40L,Deportes,Samsung,1475.71,76.0,02/09/2025,Distribuidora Comercial Integradora
+SKU-10045,Crema Hidratante Facial,Belleza,Levis,405.0,157.0,26/06/2025,Distribuidora Nacional
+SKU-10046,Cafetera de Filtro Eléctrica,Hogar y Cocina,Under Armour,2394.86,,,Distribuidora Sur Express
+SKU-10047,Set de Brochas Cosméticas,Belleza,,2321.76,121.0,26/03/2025,Distribuidora Sur Express
+SKU-10048,Auriculares Bluetooth inalámbricos,Electrónica,Xiaomi,23225.45,210.0,28/11/2025,Distribuidora del Norte
+SKU-10049,Cafetera de Filtro Eléctrica,Hogar y Cocina,HP,6370.25,,2025-01-28,Distribuidora del Norte
+SKU-10050,Tapete de Yoga Antideslizante,Deportes,Oster,9873.36,116.0,01/04/2025,Distribuidora Sur Express
+SKU-10051,Juego de Sartenes Antiadherentes,,Lenovo,809.9,142.0,21/06/2025,Distribuidora Comercial Integradora
+SKU-10052,  Licuadora de Alta Potencia  ,Hogar y Cocina,Sony,7916.94,133.0,19/03/2025,Distribuidora Global S.A.
+SKU-10053,"Televisor Smart TV 55""",Electrónica,Maybelline,11712.25,160.0,20/07/2025,Distribuidora Nacional
+SKU-10054,Mochila de Senderismo 40L,Deportes,,3168.46,223.0,17/01/2025,Distribuidora Comercial Integradora
+SKU-10055,Tenis Deportivos Running,Ropa y Calzado,Levis,358.46,340.0,2025-06-20,Distribuidora Nacional
+SKU-10056,Cojín Decorativo Algodón,HOGAR Y COCINA,Oster,6067.66,167.0,2025-07-23,Distribuidora del Norte
+SKU-10057,Chaqueta de Invierno Impermeable,Ropa y Calzado,Under Armour,1707.56,346.0,06/12/2025,Distribuidora Global S.A.
+SKU-10058,Mochila de Senderismo 40L,DEPORTES,Lenovo,154.81,146.0,14/04/2025,Distribuidora Comercial Integradora
+SKU-10059,Juego de Sábanas Matrimonial,Hogar y Cocina,Zara,4090.01,109.0,16/09/2025,Distribuidora del Norte
+SKU-10060,Consola de Videojuegos 1TB,Electrónica,Loreal,17100.57,317.0,03/06/2025,Distribuidora del Norte
+SKU-10061,Cafetera de Filtro Eléctrica,Hogar y Cocina,HP,1951.34,,08/01/2025,Distribuidora Comercial Integradora
+SKU-10062,Smartphone Android 128GB,ELECTRÓNICA,,22324.22,294.0,23/04/2025,Distribuidora Sur Express
+SKU-10063,Mancuernas de Neopreno 5kg,Deportes,Nike,7924.29,2.0,2025-02-25,Distribuidora del Norte
+SKU-10064,Secador de Cabello Iónico,Belleza,Samsung,1437.33,62.0,05/08/2025,Distribuidora Comercial Integradora
+SKU-10065,Sérum Ácido Hialurónico,Belleza,Philips,2380.05,226.0,27/10/2025,Distribuidora Comercial Integradora
+SKU-10066,Mochila de Senderismo 40L,Deportes,Zara,10781.92,243.0,09/08/2025,Distribuidora Global S.A.
+SKU-10067,Secador de Cabello Iónico,Belleza,Under Armour,673.43,225.0,2025-02-23,Distribuidora Global S.A.
+SKU-10068,Juego de Sartenes Antiadherentes,Hogar y Cocina,Loreal,,77.0,13/04/2025,Distribuidora del Norte
+SKU-10069,Smartphone Android 128GB,Electrónica,Levis,9275.71,238.0,2025-07-02,Distribuidora Sur Express
+SKU-10070,Mochila de Senderismo 40L,Deportes,Xiaomi,381.45,294.0,2025-07-16,Distribuidora Global S.A.
+SKU-10071,Juego de Sábanas Matrimonial,Hogar y Cocina,Lenovo,8045.45,214.0,24/09/2025,Distribuidora Comercial Integradora
+SKU-10072,Chaqueta de Invierno Impermeable,Ropa y Calzado,Adidas,673.05,248.0,2025-01-13,Distribuidora Sur Express
+SKU-10073,Chaqueta de Invierno Impermeable,Ropa y Calzado,Nike,1770.12,273.0,13/01/2025,Distribuidora Nacional
+SKU-10074,"Tablet HD 10""",electrónica,Levis,4688.94,236.0,2025-03-02,Distribuidora Global S.A.
+SKU-10075,  Chaqueta de Invierno Impermeable  ,Ropa y Calzado,Philips,773.13,194.0,25/05/2025,Distribuidora Sur Express
+SKU-10076,Licuadora de Alta Potencia,Hogar y Cocina,Zara,369.57,276.0,2025-01-12,Distribuidora Nacional
+SKU-10077,"Televisor Smart TV 55""",Electrónica,Adidas,6184.98,10.0,2025-10-05,Distribuidora Sur Express
+SKU-10078,"Laptop Portátil 15.6""",Electrónica,Adidas,12428.3,131.0,06/06/2025,Distribuidora Nacional
+SKU-10079,Tenis Deportivos Running,Ropa y Calzado,Sony,1146.96,159.0,22/10/2025,Distribuidora Sur Express
+SKU-10080,Botella de Agua Térmica,deportes,Adidas,1050.56,321.0,04/04/2025,Distribuidora Global S.A.
+SKU-10081,Perfume Floral Dama 100ml,Belleza,HP,2461.21,21.0,2025-06-18,Distribuidora Global S.A.
+SKU-10082,"Laptop Portátil 15.6""",Electrónica,Under Armour,9518.93,215.0,2025-08-04,Distribuidora Global S.A.
+SKU-10083,Botella de Agua Térmica,Deportes,Nike,5310.52,267.0,09/11/2025,Distribuidora Comercial Integradora
+SKU-10084,Bicicleta de Montaña R26,Deportes,Levis,9934.95,303.0,11/05/2025,Distribuidora Nacional
+SKU-10085,Juego de Sábanas Matrimonial,Hogar y Cocina,Adidas,6803.19,291.0,2025-10-22,Distribuidora Nacional
+SKU-10086,Tapete de Yoga Antideslizante,Deportes,Nike,5927.47,181.0,2025-05-11,Distribuidora Comercial Integradora
+SKU-10087,Cojín Decorativo Algodón,hogar y cocina,Samsung,4745.32,97.0,08/02/2025,Distribuidora Sur Express
+SKU-10088,Crema Hidratante Facial,Belleza,Xiaomi,1242.1,251.0,2025-08-26,Distribuidora Global S.A.
+SKU-10089,Chaqueta de Invierno Impermeable,Ropa y Calzado,Xiaomi,627.12,339.0,2025-10-12,Distribuidora Comercial Integradora
+SKU-10090,Juego de Sábanas Matrimonial,Hogar y Cocina,Xiaomi,5042.42,180.0,2025-12-15,Distribuidora Global S.A.
+SKU-10091,Jeans de Mezclilla Hombre,,Xiaomi,,61.0,18/12/2025,Distribuidora del Norte
+SKU-10092,Camisa Casual Manga Larga,Ropa y Calzado,Xiaomi,1000.51,301.0,2025-09-20,Distribuidora Nacional
+SKU-10093,Tenis Deportivos Running,Ropa y Calzado,Adidas,809.37,154.0,23/01/2025,Distribuidora Global S.A.
+SKU-10094,"Televisor Smart TV 55""",Electrónica,Loreal,8365.21,64.0,28/11/2025,Distribuidora Nacional
+SKU-10095,"Laptop Portátil 15.6""",Electrónica,,12530.83,225.0,06/06/2025,Distribuidora Global S.A.
+SKU-10096,Balón de Fútbol Profesional,Deportes,Lenovo,924.32,251.0,19/02/2025,Distribuidora Nacional
+SKU-10097,Camisa Casual Manga Larga,Ropa y Calzado,HP,1122.4,155.0,2025-02-08,Distribuidora Sur Express
+SKU-10098,Sérum Ácido Hialurónico,,HP,1583.82,267.0,15/07/2025,Distribuidora Global S.A.
+SKU-10099,Secador de Cabello Iónico,Belleza,Oster,1464.28,30.0,2025-10-24,Distribuidora del Norte
+SKU-10100,Tenis Deportivos Running,Ropa y Calzado,,375.84,122.0,2025-03-18,Distribuidora Nacional
+SKU-10101,Bicicleta de Montaña R26,Deportes,Xiaomi,7186.66,149.0,2025-01-08,Distribuidora Global S.A.
+SKU-10102,Balón de Fútbol Profesional,Deportes,Under Armour,2916.07,,19/11/2025,Distribuidora del Norte
+SKU-10103,Balón de Fútbol Profesional,Deportes,Loreal,2813.99,76.0,2025-05-27,Distribuidora Nacional
+SKU-10104,Tenis Deportivos Running,Ropa y Calzado,Maybelline,1410.88,291.0,2025-05-15,Distribuidora Global S.A.
+SKU-10105,Tapete de Yoga Antideslizante,Deportes,Loreal,6548.78,224.0,2025-02-20,Distribuidora Sur Express
+SKU-10106,Cojín Decorativo Algodón,Hogar y Cocina,Oster,426.61,117.0,27/11/2025,Distribuidora Comercial Integradora
+SKU-10107,"Tablet HD 10""",Electrónica,Lenovo,7833.51,20.0,16/03/2025,Distribuidora Sur Express
+SKU-10108,Cafetera de Filtro Eléctrica,Hogar y Cocina,Maybelline,4034.79,251.0,2025-02-16,Distribuidora Global S.A.
+SKU-10109,Aspiradora Robot Inteligente,Hogar y Cocina,Sony,7747.05,168.0,2025-07-23,Distribuidora Sur Express
+SKU-10110,Perfume Floral Dama 100ml,Belleza,Zara,310.43,129.0,04/06/2025,Distribuidora Sur Express
+SKU-10111,Perfume Floral Dama 100ml,,Under Armour,2186.35,236.0,2025-07-02,Distribuidora Global S.A.
+SKU-10112,Secador de Cabello Iónico,Belleza,Under Armour,1160.34,26.0,09/04/2025,Distribuidora Global S.A.
+SKU-10113,Botella de Agua Térmica,deportes,Zara,1588.9,322.0,2025-10-26,Distribuidora del Norte
+SKU-10114,Cojín Decorativo Algodón,,Samsung,5058.81,47.0,27/04/2025,Distribuidora Sur Express
+SKU-10115,"Tablet HD 10""",Electrónica,Lenovo,5118.32,149.0,2025-09-23,Distribuidora Sur Express
+SKU-10116,Mancuernas de Neopreno 5kg,Deportes,Zara,6682.49,196.0,20/04/2025,Distribuidora del Norte
+SKU-10117,Consola de Videojuegos 1TB,Electrónica,HP,20065.15,212.0,26/06/2025,Distribuidora Nacional
+SKU-10118,Aspiradora Robot Inteligente,Hogar y Cocina,Oster,7568.79,296.0,16/11/2025,Distribuidora Sur Express
+SKU-10119,Secador de Cabello Iónico,Belleza,Philips,897.19,278.0,15/07/2025,Distribuidora del Norte
+SKU-10120,Vestido Casual de Verano,ROPA Y CALZADO,Levis,612.02,210.0,11/01/2025,Distribuidora Sur Express
+SKU-10121,Botella de Agua Térmica,Deportes,HP,9875.86,77.0,2025-08-02,Distribuidora Comercial Integradora
+SKU-10122,Licuadora de Alta Potencia,Hogar y Cocina,Lenovo,7635.35,51.0,2025-09-15,Distribuidora del Norte
+SKU-10123,Botella de Agua Térmica,Deportes,Nike,1036.71,135.0,20/06/2025,Distribuidora Nacional
+SKU-10124,  Aspiradora Robot Inteligente  ,Hogar y Cocina,,4894.88,162.0,23/11/2025,Distribuidora Sur Express
+SKU-10125,Perfume Floral Dama 100ml,Belleza,Maybelline,263.28,323.0,10/11/2025,Distribuidora Nacional
+SKU-10126,Balón de Fútbol Profesional,Deportes,,7659.91,51.0,06/08/2025,Distribuidora Nacional
+SKU-10127,Consola de Videojuegos 1TB,Electrónica,HP,2818.8,183.0,2025-06-14,Distribuidora Comercial Integradora
+SKU-10128,Mochila de Senderismo 40L,Deportes,Under Armour,9541.36,87.0,03/03/2025,Distribuidora Sur Express
+SKU-10129,Set de Brochas Cosméticas,Belleza,Adidas,1293.9,298.0,2025-03-08,Distribuidora Global S.A.
+SKU-10130,Tapete de Yoga Antideslizante,Deportes,,261.36,238.0,22/05/2025,Distribuidora Nacional
+SKU-10131,Tapete de Yoga Antideslizante,Deportes,Maybelline,3694.98,217.0,2025-12-09,Distribuidora Global S.A.
+SKU-10132,Chaqueta de Invierno Impermeable,Ropa y Calzado,Lenovo,998.97,121.0,,Distribuidora Global S.A.
+SKU-10133,Licuadora de Alta Potencia,Hogar y Cocina,Lenovo,5991.42,140.0,19/01/2025,Distribuidora Nacional
+SKU-10134,Set de Brochas Cosméticas,Belleza,Zara,2098.65,146.0,20/04/2025,Distribuidora del Norte
+SKU-10135,Vestido Casual de Verano,Ropa y Calzado,Oster,1300.53,337.0,2025-11-27,Distribuidora Nacional
+SKU-10136,Consola de Videojuegos 1TB,Electrónica,HP,11859.34,296.0,2025-06-24,Distribuidora Global S.A.
+SKU-10137,Aspiradora Robot Inteligente,Hogar y Cocina,Levis,1744.63,67.0,12/09/2025,Distribuidora Global S.A.
+SKU-10138,Tenis Deportivos Running,Ropa y Calzado,Lenovo,1713.49,151.0,2025-12-28,Distribuidora Nacional
+SKU-10139,Balón de Fútbol Profesional,Deportes,Nike,9086.7,115.0,,Distribuidora Sur Express
+SKU-10140,  Kit de Maquillaje Profesional  ,Belleza,Sony,,,2025-05-18,Distribuidora Global S.A.
+SKU-10141,Cojín Decorativo Algodón,Hogar y Cocina,Levis,7436.27,,2025-02-22,Distribuidora Nacional
+SKU-10142,Sérum Ácido Hialurónico,Belleza,Philips,2296.53,113.0,03/11/2025,Distribuidora Sur Express
+SKU-10143,Aspiradora Robot Inteligente,Hogar y Cocina,Levis,1225.75,23.0,10/01/2025,Distribuidora Nacional
+SKU-10144,Auriculares Bluetooth inalámbricos,Electrónica,Loreal,4688.11,232.0,22/06/2025,Distribuidora Comercial Integradora
+SKU-10145,Mochila de Senderismo 40L,Deportes,Xiaomi,8760.2,212.0,04/11/2025,Distribuidora Comercial Integradora
+SKU-10146,Tapete de Yoga Antideslizante,Deportes,,8329.83,111.0,15/08/2025,Distribuidora Global S.A.
+SKU-10147,"Tablet HD 10""",ELECTRÓNICA,Philips,14294.95,330.0,2025-06-02,Distribuidora del Norte
+SKU-10148,Smartphone Android 128GB,electrónica,,17075.07,328.0,20/11/2025,Distribuidora Nacional
+SKU-10149,Cafetera de Filtro Eléctrica,Hogar y Cocina,Nike,7124.41,105.0,27/02/2025,Distribuidora del Norte
+SKU-10150,Crema Hidratante Facial,Belleza,Lenovo,2187.14,168.0,26/03/2025,Distribuidora Nacional
+SKU-10151,Cafetera de Filtro Eléctrica,Hogar y Cocina,Nike,4952.9,89.0,22/02/2025,Distribuidora del Norte
+SKU-10152,Consola de Videojuegos 1TB,Electrónica,HP,,301.0,2025-06-01,Distribuidora Nacional
+SKU-10153,  Sudadera con Capucha  ,Ropa y Calzado,,1065.43,32.0,15/08/2025,Distribuidora Comercial Integradora
+SKU-10154,Perfume Floral Dama 100ml,Belleza,Zara,1308.72,314.0,24/01/2025,Distribuidora Comercial Integradora
+SKU-10155,Juego de Sábanas Matrimonial,Hogar y Cocina,Under Armour,8682.43,31.0,2025-08-28,Distribuidora Nacional
+SKU-10156,Botella de Agua Térmica,Deportes,Zara,1020.86,41.0,2025-06-20,Distribuidora del Norte
+SKU-10157,Cojín Decorativo Algodón,hogar y cocina,Under Armour,5350.21,166.0,20/07/2025,Distribuidora Sur Express
+SKU-10158,Sérum Ácido Hialurónico,belleza,Levis,,58.0,21/11/2025,Distribuidora Comercial Integradora
+SKU-10159,Chaqueta de Invierno Impermeable,Ropa y Calzado,Zara,,,2025-06-27,Distribuidora Sur Express
+SKU-10160,Consola de Videojuegos 1TB,Electrónica,Levis,8844.3,130.0,05/06/2025,Distribuidora Sur Express
+SKU-10161,"Televisor Smart TV 55""",Electrónica,Lenovo,3506.06,,,Distribuidora del Norte
+SKU-10162,Perfume Floral Dama 100ml,Belleza,Maybelline,2395.86,287.0,2025-06-22,Distribuidora Global S.A.
+SKU-10163,Botella de Agua Térmica,Deportes,Samsung,11625.52,307.0,2025-05-12,Distribuidora Comercial Integradora
+SKU-10164,Camisa Casual Manga Larga,Ropa y Calzado,Under Armour,997.39,55.0,28/06/2025,Distribuidora Nacional
+SKU-10165,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,7302.55,287.0,20/10/2025,Distribuidora Comercial Integradora
+SKU-10166,"Laptop Portátil 15.6""",Electrónica,Under Armour,20992.33,136.0,2025-01-06,Distribuidora Global S.A.
+SKU-10167,Juego de Sartenes Antiadherentes,Hogar y Cocina,Samsung,1795.37,73.0,2025-10-22,Distribuidora del Norte
+SKU-10168,"Televisor Smart TV 55""",Electrónica,Xiaomi,13966.34,192.0,2025-07-15,Distribuidora Global S.A.
+SKU-10169,Aspiradora Robot Inteligente,Hogar y Cocina,Philips,7035.15,290.0,03/10/2025,Distribuidora del Norte
+SKU-10170,Vestido Casual de Verano,Ropa y Calzado,Samsung,1294.65,139.0,2025-08-22,Distribuidora Comercial Integradora
+SKU-10171,Bicicleta de Montaña R26,Deportes,Oster,2704.49,262.0,,Distribuidora Global S.A.
+SKU-10172,Secador de Cabello Iónico,Belleza,Loreal,1700.79,23.0,13/04/2025,Distribuidora Nacional
+SKU-10173,  Auriculares Bluetooth inalámbricos  ,Electrónica,Oster,23715.12,70.0,2025-05-10,Distribuidora Nacional
+SKU-10174,Botella de Agua Térmica,Deportes,Levis,2231.98,,2025-09-23,Distribuidora Comercial Integradora
+SKU-10175,Licuadora de Alta Potencia,Hogar y Cocina,,7782.53,21.0,2025-07-01,Distribuidora Nacional
+SKU-10176,Cojín Decorativo Algodón,Hogar y Cocina,Levis,5244.92,327.0,2025-07-10,Distribuidora Nacional
+SKU-10177,Cafetera de Filtro Eléctrica,Hogar y Cocina,HP,8538.01,235.0,2025-12-12,Distribuidora Nacional
+SKU-10178,Chaqueta de Invierno Impermeable,Ropa y Calzado,Maybelline,870.7,40.0,2025-07-28,Distribuidora Global S.A.
+SKU-10179,Tenis Deportivos Running,Ropa y Calzado,HP,510.61,261.0,04/11/2025,Distribuidora del Norte
+SKU-10180,Juego de Sartenes Antiadherentes,Hogar y Cocina,,8631.37,330.0,2025-03-08,Distribuidora Global S.A.
+SKU-10181,Camisa Casual Manga Larga,Ropa y Calzado,Maybelline,486.95,335.0,06/02/2025,Distribuidora Sur Express
+SKU-10182,Mochila de Senderismo 40L,Deportes,HP,,348.0,21/10/2025,Distribuidora Comercial Integradora
+SKU-10183,Aspiradora Robot Inteligente,Hogar y Cocina,Philips,1527.43,34.0,15/08/2025,Distribuidora Global S.A.
+SKU-10184,Perfume Floral Dama 100ml,Belleza,Philips,1317.12,158.0,2025-08-15,Distribuidora Global S.A.
+SKU-10185,Licuadora de Alta Potencia,Hogar y Cocina,Under Armour,7804.4,46.0,20/10/2025,Distribuidora Sur Express
+SKU-10186,Sérum Ácido Hialurónico,Belleza,HP,1873.15,21.0,26/08/2025,Distribuidora del Norte
+SKU-10187,Cojín Decorativo Algodón,Hogar y Cocina,Zara,4611.03,31.0,04/08/2025,Distribuidora Global S.A.
+SKU-10188,"Laptop Portátil 15.6""",Electrónica,Under Armour,5555.13,126.0,15/12/2025,Distribuidora Comercial Integradora
+SKU-10189,Sérum Ácido Hialurónico,Belleza,Nike,972.72,144.0,14/07/2025,Distribuidora Comercial Integradora
+SKU-10190,"  Tablet HD 10""  ",,Under Armour,9364.26,168.0,18/02/2025,Distribuidora Global S.A.
+SKU-10191,Aspiradora Robot Inteligente,Hogar y Cocina,Lenovo,5976.76,308.0,2025-03-11,Distribuidora del Norte
+SKU-10192,Juego de Sartenes Antiadherentes,Hogar y Cocina,Under Armour,6345.62,200.0,20/03/2025,Distribuidora Nacional
+SKU-10193,Cojín Decorativo Algodón,Hogar y Cocina,Levis,5861.74,168.0,22/03/2025,Distribuidora Comercial Integradora
+SKU-10194,"Tablet HD 10""",Electrónica,Under Armour,11450.05,185.0,2025-01-12,Distribuidora del Norte
+SKU-10195,Juego de Sábanas Matrimonial,Hogar y Cocina,Adidas,2192.58,70.0,2025-03-03,Distribuidora Nacional
+SKU-10196,Sérum Ácido Hialurónico,belleza,Lenovo,1872.48,269.0,2025-01-22,Distribuidora Comercial Integradora
+SKU-10197,Vestido Casual de Verano,Ropa y Calzado,Levis,489.09,92.0,25/12/2025,Distribuidora del Norte
+SKU-10198,Balón de Fútbol Profesional,Deportes,Levis,4466.95,121.0,2025-08-20,Distribuidora Sur Express
+SKU-10199,Vestido Casual de Verano,Ropa y Calzado,Adidas,,240.0,12/04/2025,Distribuidora Comercial Integradora
+SKU-10200,Bicicleta de Montaña R26,Deportes,HP,3489.0,195.0,2025-09-17,Distribuidora del Norte
+SKU-10201,Vestido Casual de Verano,,Nike,1603.15,26.0,16/11/2025,Distribuidora Comercial Integradora
+SKU-10202,"Tablet HD 10""",Electrónica,Lenovo,13623.87,63.0,03/05/2025,Distribuidora Global S.A.
+SKU-10203,Mochila de Senderismo 40L,Deportes,Nike,9997.9,46.0,2025-04-27,Distribuidora Global S.A.
+SKU-10204,Smartphone Android 128GB,Electrónica,Samsung,10816.67,191.0,13/04/2025,Distribuidora Global S.A.
+SKU-10205,Jeans de Mezclilla Hombre,Ropa y Calzado,Philips,1692.78,332.0,2025-06-26,Distribuidora Nacional
+SKU-10206,Juego de Sábanas Matrimonial,Hogar y Cocina,Xiaomi,7512.77,240.0,,Distribuidora Nacional
+SKU-10207,Consola de Videojuegos 1TB,Electrónica,Adidas,,280.0,20/12/2025,Distribuidora Nacional
+SKU-10208,Cafetera de Filtro Eléctrica,Hogar y Cocina,Oster,1271.27,122.0,21/07/2025,Distribuidora Sur Express
+SKU-10209,"Televisor Smart TV 55""",Electrónica,Lenovo,22770.95,305.0,01/09/2025,Distribuidora Comercial Integradora
+SKU-10210,Sudadera con Capucha,,Nike,701.47,0.0,,Distribuidora Sur Express
+SKU-10211,  Sudadera con Capucha  ,Ropa y Calzado,Under Armour,382.7,184.0,17/02/2025,Distribuidora Comercial Integradora
+SKU-10212,Perfume Floral Dama 100ml,,,2195.87,22.0,13/11/2025,Distribuidora Global S.A.
+SKU-10213,Consola de Videojuegos 1TB,Electrónica,HP,3087.65,123.0,22/12/2025,Distribuidora Comercial Integradora
+SKU-10214,Cafetera de Filtro Eléctrica,Hogar y Cocina,Samsung,3299.23,173.0,06/11/2025,Distribuidora Sur Express
+SKU-10215,Botella de Agua Térmica,Deportes,Nike,9766.25,32.0,25/12/2025,Distribuidora Nacional
+SKU-10216,Cafetera de Filtro Eléctrica,Hogar y Cocina,Samsung,7160.76,21.0,10/06/2025,Distribuidora Comercial Integradora
+SKU-10217,Tapete de Yoga Antideslizante,Deportes,Samsung,9076.5,97.0,,Distribuidora Nacional
+SKU-10218,Juego de Sartenes Antiadherentes,Hogar y Cocina,Sony,7233.21,223.0,2025-07-24,Distribuidora Sur Express
+SKU-10219,Cafetera de Filtro Eléctrica,Hogar y Cocina,,6289.2,188.0,09/09/2025,Distribuidora Sur Express
+SKU-10220,Smartphone Android 128GB,Electrónica,Maybelline,24884.81,92.0,,Distribuidora Nacional
+SKU-10221,Aspiradora Robot Inteligente,Hogar y Cocina,Oster,,308.0,2025-12-14,Distribuidora Sur Express
+SKU-10222,Juego de Sábanas Matrimonial,Hogar y Cocina,Samsung,6594.97,180.0,2025-10-14,Distribuidora Nacional
+SKU-10223,"  Tablet HD 10""  ",,Under Armour,11045.94,262.0,2025-12-22,Distribuidora Nacional
+SKU-10224,Vestido Casual de Verano,Ropa y Calzado,Under Armour,1461.03,17.0,2025-03-03,Distribuidora Global S.A.
+SKU-10225,Juego de Sábanas Matrimonial,HOGAR Y COCINA,Maybelline,483.99,78.0,15/11/2025,Distribuidora Global S.A.
+SKU-10226,Balón de Fútbol Profesional,deportes,Maybelline,1781.69,187.0,11/07/2025,Distribuidora del Norte
+SKU-10227,"Televisor Smart TV 55""",Electrónica,Xiaomi,5872.13,265.0,2025-07-18,Distribuidora Global S.A.
+SKU-10228,Mancuernas de Neopreno 5kg,Deportes,Maybelline,3534.09,251.0,2025-04-04,Distribuidora Nacional
+SKU-10229,Mancuernas de Neopreno 5kg,Deportes,Xiaomi,5424.57,44.0,28/11/2025,Distribuidora Global S.A.
+SKU-10230,"  Laptop Portátil 15.6""  ",,Loreal,8323.51,153.0,23/03/2025,Distribuidora del Norte
+SKU-10231,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,1266.99,102.0,08/03/2025,Distribuidora Nacional
+SKU-10232,Cojín Decorativo Algodón,Hogar y Cocina,Maybelline,3445.42,282.0,20/03/2025,Distribuidora Nacional
+SKU-10233,  Juego de Sábanas Matrimonial  ,Hogar y Cocina,Xiaomi,6525.05,269.0,,Distribuidora Comercial Integradora
+SKU-10234,Auriculares Bluetooth inalámbricos,Electrónica,Philips,,230.0,22/08/2025,Distribuidora del Norte
+SKU-10235,Set de Brochas Cosméticas,Belleza,Maybelline,535.89,66.0,17/07/2025,Distribuidora Nacional
+SKU-10236,"Laptop Portátil 15.6""",Electrónica,,8646.93,82.0,2025-06-23,Distribuidora Comercial Integradora
+SKU-10237,Licuadora de Alta Potencia,,Oster,1926.46,282.0,05/05/2025,Distribuidora Comercial Integradora
+SKU-10238,Perfume Floral Dama 100ml,Belleza,Loreal,1638.01,303.0,2025-10-05,Distribuidora Comercial Integradora
+SKU-10239,Kit de Maquillaje Profesional,Belleza,Lenovo,2317.36,21.0,2025-01-03,Distribuidora Comercial Integradora
+SKU-10240,  Aspiradora Robot Inteligente  ,Hogar y Cocina,Adidas,6948.24,213.0,2025-10-21,Distribuidora Comercial Integradora
+SKU-10241,Aspiradora Robot Inteligente,Hogar y Cocina,Oster,4448.91,350.0,2025-07-10,Distribuidora Nacional
+SKU-10242,Chaqueta de Invierno Impermeable,Ropa y Calzado,Levis,1000.59,104.0,2025-06-20,Distribuidora Global S.A.
+SKU-10243,Juego de Sábanas Matrimonial,Hogar y Cocina,Nike,6892.85,263.0,2025-09-04,Distribuidora Sur Express
+SKU-10244,Consola de Videojuegos 1TB,Electrónica,,7326.09,49.0,10/01/2025,Distribuidora Comercial Integradora
+SKU-10245,Mancuernas de Neopreno 5kg,Deportes,Lenovo,10842.38,167.0,,Distribuidora del Norte
+SKU-10246,Mochila de Senderismo 40L,Deportes,Zara,6060.3,157.0,2025-08-01,Distribuidora Sur Express
+SKU-10247,Secador de Cabello Iónico,Belleza,,615.56,180.0,2025-01-02,Distribuidora Comercial Integradora
+SKU-10248,Tapete de Yoga Antideslizante,Deportes,Loreal,246.9,,05/07/2025,Distribuidora Global S.A.
+SKU-10249,Tapete de Yoga Antideslizante,Deportes,Samsung,4896.89,291.0,2025-09-07,Distribuidora Global S.A.
+SKU-10250,Smartphone Android 128GB,Electrónica,Loreal,12083.33,281.0,27/05/2025,Distribuidora Comercial Integradora
+SKU-10251,Auriculares Bluetooth inalámbricos,Electrónica,Sony,10756.74,173.0,12/09/2025,Distribuidora del Norte
+SKU-10252,Sérum Ácido Hialurónico,Belleza,Levis,1299.69,23.0,05/01/2025,Distribuidora Sur Express
+SKU-10253,Secador de Cabello Iónico,Belleza,Nike,,263.0,11/03/2025,Distribuidora Global S.A.
+SKU-10254,Chaqueta de Invierno Impermeable,Ropa y Calzado,Maybelline,1395.95,153.0,11/10/2025,Distribuidora Comercial Integradora
+SKU-10255,Secador de Cabello Iónico,Belleza,Xiaomi,1450.58,243.0,2025-01-12,Distribuidora Nacional
+SKU-10256,Mochila de Senderismo 40L,Deportes,Oster,9591.54,322.0,2025-01-20,Distribuidora Comercial Integradora
+SKU-10257,Crema Hidratante Facial,Belleza,Xiaomi,222.3,245.0,17/03/2025,Distribuidora Comercial Integradora
+SKU-10258,Mancuernas de Neopreno 5kg,Deportes,Lenovo,8216.61,,2025-10-23,Distribuidora Nacional
+SKU-10259,Tapete de Yoga Antideslizante,Deportes,Levis,1944.46,104.0,17/07/2025,Distribuidora Sur Express
+SKU-10260,"Tablet HD 10""",Electrónica,Nike,13689.06,287.0,2025-06-22,Distribuidora Sur Express
+SKU-10261,Cafetera de Filtro Eléctrica,Hogar y Cocina,Zara,8225.69,175.0,12/09/2025,Distribuidora Global S.A.
+SKU-10262,Secador de Cabello Iónico,Belleza,Adidas,2397.57,142.0,,Distribuidora Global S.A.
+SKU-10263,Aspiradora Robot Inteligente,Hogar y Cocina,Adidas,6273.11,250.0,2025-06-16,Distribuidora Global S.A.
+SKU-10264,  Licuadora de Alta Potencia  ,Hogar y Cocina,Maybelline,6153.28,194.0,2025-07-27,Distribuidora del Norte
+SKU-10265,Licuadora de Alta Potencia,Hogar y Cocina,Oster,,40.0,15/06/2025,Distribuidora Sur Express
+SKU-10266,Camisa Casual Manga Larga,Ropa y Calzado,,1084.8,287.0,2025-12-09,Distribuidora Comercial Integradora
+SKU-10267,Crema Hidratante Facial,BELLEZA,Adidas,220.89,271.0,2025-04-21,Distribuidora Nacional
+SKU-10268,Tapete de Yoga Antideslizante,Deportes,Xiaomi,5747.99,348.0,01/03/2025,Distribuidora del Norte
+SKU-10269,Botella de Agua Térmica,Deportes,Zara,5807.76,102.0,2025-05-11,Distribuidora Nacional
+SKU-10270,"Tablet HD 10""",Electrónica,Maybelline,6957.17,19.0,14/03/2025,Distribuidora del Norte
+SKU-10271,Smartphone Android 128GB,Electrónica,HP,13141.52,148.0,2025-01-01,Distribuidora Comercial Integradora
+SKU-10272,Consola de Videojuegos 1TB,Electrónica,Oster,12177.2,328.0,2025-09-17,Distribuidora del Norte
+SKU-10273,Secador de Cabello Iónico,Belleza,Oster,561.94,57.0,06/06/2025,Distribuidora Global S.A.
+SKU-10274,Jeans de Mezclilla Hombre,Ropa y Calzado,Xiaomi,,151.0,22/10/2025,Distribuidora del Norte
+SKU-10275,Set de Brochas Cosméticas,Belleza,Levis,2084.6,263.0,,Distribuidora Nacional
+SKU-10276,Camisa Casual Manga Larga,Ropa y Calzado,Zara,751.58,127.0,2025-01-09,Distribuidora Sur Express
+SKU-10277,Juego de Sartenes Antiadherentes,Hogar y Cocina,Oster,5324.65,293.0,09/01/2025,Distribuidora del Norte
+SKU-10278,"Tablet HD 10""",Electrónica,Sony,12436.78,81.0,22/07/2025,Distribuidora Global S.A.
+SKU-10279,"Tablet HD 10""",Electrónica,Oster,10137.28,113.0,2025-04-05,Distribuidora Sur Express
+SKU-10280,Kit de Maquillaje Profesional,Belleza,Levis,1784.36,241.0,26/09/2025,Distribuidora del Norte
+SKU-10281,Sudadera con Capucha,Ropa y Calzado,HP,1173.51,41.0,15/09/2025,Distribuidora Global S.A.
+SKU-10282,"Laptop Portátil 15.6""",Electrónica,Sony,2951.31,280.0,07/09/2025,Distribuidora del Norte
+SKU-10283,Tenis Deportivos Running,Ropa y Calzado,Lenovo,1056.53,59.0,07/11/2025,Distribuidora Sur Express
+SKU-10284,"Laptop Portátil 15.6""",Electrónica,Zara,20504.26,,2025-03-17,Distribuidora Comercial Integradora
+SKU-10285,"  Laptop Portátil 15.6""  ",Electrónica,Zara,17310.04,157.0,2025-12-01,Distribuidora Nacional
+SKU-10286,Vestido Casual de Verano,Ropa y Calzado,Sony,320.2,176.0,03/12/2025,Distribuidora Nacional
+SKU-10287,Smartphone Android 128GB,,Samsung,8246.63,92.0,25/03/2025,Distribuidora Sur Express
+SKU-10288,Juego de Sábanas Matrimonial,Hogar y Cocina,Zara,7851.66,193.0,03/07/2025,Distribuidora Comercial Integradora
+SKU-10289,Sudadera con Capucha,Ropa y Calzado,Lenovo,789.04,91.0,13/09/2025,Distribuidora del Norte
+SKU-10290,"Televisor Smart TV 55""",Electrónica,Oster,12380.59,278.0,2025-07-18,Distribuidora del Norte
+SKU-10291,Chaqueta de Invierno Impermeable,Ropa y Calzado,Philips,490.44,96.0,2025-12-25,Distribuidora Sur Express
+SKU-10292,Perfume Floral Dama 100ml,Belleza,,593.8,51.0,2025-10-02,Distribuidora Nacional
+SKU-10293,Sudadera con Capucha,Ropa y Calzado,Samsung,873.51,119.0,07/09/2025,Distribuidora Nacional
+SKU-10294,Vestido Casual de Verano,Ropa y Calzado,Oster,612.95,294.0,19/06/2025,Distribuidora Global S.A.
+SKU-10295,Tenis Deportivos Running,Ropa y Calzado,Nike,1777.83,266.0,2025-04-14,Distribuidora Nacional
+SKU-10296,Sérum Ácido Hialurónico,,Xiaomi,2287.7,320.0,14/11/2025,Distribuidora Nacional
+SKU-10297,Aspiradora Robot Inteligente,Hogar y Cocina,Under Armour,3553.16,268.0,2025-06-23,Distribuidora del Norte
+SKU-10298,Juego de Sábanas Matrimonial,Hogar y Cocina,Nike,6837.86,242.0,2025-04-28,Distribuidora del Norte
+SKU-10299,Balón de Fútbol Profesional,Deportes,Loreal,5040.23,213.0,2025-09-17,Distribuidora del Norte
+SKU-10300,  Cafetera de Filtro Eléctrica  ,Hogar y Cocina,Philips,5890.01,230.0,03/06/2025,Distribuidora del Norte
+SKU-10301,Consola de Videojuegos 1TB,Electrónica,Levis,17331.29,308.0,,Distribuidora Comercial Integradora
+SKU-10302,Crema Hidratante Facial,Belleza,Zara,600.54,170.0,2025-05-01,Distribuidora del Norte
+SKU-10303,"Tablet HD 10""",Electrónica,HP,12754.64,,,Distribuidora Sur Express
+SKU-10304,  Vestido Casual de Verano  ,Ropa y Calzado,Philips,1452.05,194.0,18/08/2025,Distribuidora Global S.A.
+SKU-10305,Juego de Sartenes Antiadherentes,,Loreal,7967.75,238.0,26/02/2025,Distribuidora Sur Express
+SKU-10306,Cafetera de Filtro Eléctrica,Hogar y Cocina,Philips,2952.71,23.0,2025-10-28,Distribuidora del Norte
+SKU-10307,Consola de Videojuegos 1TB,ELECTRÓNICA,Loreal,23466.82,296.0,2025-12-14,Distribuidora del Norte
+SKU-10308,Cafetera de Filtro Eléctrica,Hogar y Cocina,Levis,5213.15,125.0,18/08/2025,Distribuidora Global S.A.
+SKU-10309,Juego de Sábanas Matrimonial,Hogar y Cocina,Xiaomi,5845.91,251.0,,Distribuidora Global S.A.
+SKU-10310,Camisa Casual Manga Larga,Ropa y Calzado,Xiaomi,1097.15,94.0,21/09/2025,Distribuidora Comercial Integradora
+SKU-10311,"Televisor Smart TV 55""",Electrónica,Lenovo,17203.07,3.0,05/07/2025,Distribuidora del Norte
+SKU-10312,"Tablet HD 10""",Electrónica,Nike,1714.82,258.0,,Distribuidora Comercial Integradora
+SKU-10313,Botella de Agua Térmica,Deportes,,336.42,272.0,2025-09-14,Distribuidora Comercial Integradora
+SKU-10314,Cojín Decorativo Algodón,Hogar y Cocina,Oster,349.85,345.0,26/07/2025,Distribuidora del Norte
+SKU-10315,"Televisor Smart TV 55""",Electrónica,,4999.09,98.0,2025-10-17,Distribuidora Global S.A.
+SKU-10316,Juego de Sábanas Matrimonial,Hogar y Cocina,Sony,3481.85,207.0,2025-08-19,Distribuidora del Norte
+SKU-10317,Aspiradora Robot Inteligente,Hogar y Cocina,Lenovo,7660.23,334.0,2025-11-25,Distribuidora Sur Express
+SKU-10318,Bicicleta de Montaña R26,Deportes,Loreal,5790.66,326.0,2025-01-23,Distribuidora Sur Express
+SKU-10319,Botella de Agua Térmica,Deportes,HP,4075.56,48.0,2025-09-02,Distribuidora Comercial Integradora
+SKU-10320,Tapete de Yoga Antideslizante,Deportes,Samsung,11101.29,350.0,18/05/2025,Distribuidora Nacional
+SKU-10321,Tenis Deportivos Running,Ropa y Calzado,Samsung,1740.28,300.0,25/03/2025,Distribuidora Sur Express
+SKU-10322,Consola de Videojuegos 1TB,Electrónica,Nike,14753.02,290.0,22/07/2025,Distribuidora Global S.A.
+SKU-10323,Botella de Agua Térmica,Deportes,Nike,9517.4,40.0,24/09/2025,Distribuidora Nacional
+SKU-10324,Smartphone Android 128GB,Electrónica,Adidas,21208.85,174.0,25/10/2025,Distribuidora Comercial Integradora
+SKU-10325,  Tapete de Yoga Antideslizante  ,Deportes,Samsung,7664.36,230.0,2025-08-08,Distribuidora Sur Express
+SKU-10326,Mancuernas de Neopreno 5kg,Deportes,Under Armour,,194.0,25/02/2025,Distribuidora del Norte
+SKU-10327,"Televisor Smart TV 55""",Electrónica,Oster,5124.19,324.0,2025-03-24,Distribuidora Global S.A.
+SKU-10328,"Televisor Smart TV 55""",Electrónica,Samsung,23659.57,227.0,2025-06-25,Distribuidora del Norte
+SKU-10329,Auriculares Bluetooth inalámbricos,Electrónica,Levis,12047.83,284.0,2025-09-14,Distribuidora Nacional
+SKU-10330,Cojín Decorativo Algodón,Hogar y Cocina,Sony,5451.94,166.0,2025-07-01,Distribuidora Sur Express
+SKU-10331,"Tablet HD 10""",Electrónica,Loreal,22772.38,124.0,2025-10-17,Distribuidora Sur Express
+SKU-10332,Camisa Casual Manga Larga,,Oster,716.75,252.0,2025-03-03,Distribuidora Global S.A.
+SKU-10333,Tapete de Yoga Antideslizante,,Zara,9424.6,184.0,08/05/2025,Distribuidora Sur Express
+SKU-10334,Sérum Ácido Hialurónico,Belleza,Adidas,1198.33,69.0,01/05/2025,Distribuidora Global S.A.
+SKU-10335,Secador de Cabello Iónico,Belleza,HP,2169.14,225.0,14/06/2025,Distribuidora Comercial Integradora
+SKU-10336,Tenis Deportivos Running,Ropa y Calzado,Philips,1184.98,102.0,2025-08-11,Distribuidora Sur Express
+SKU-10337,Juego de Sartenes Antiadherentes,,Xiaomi,6314.63,251.0,2025-10-26,Distribuidora Sur Express
+SKU-10338,Juego de Sábanas Matrimonial,Hogar y Cocina,Philips,1201.21,288.0,,Distribuidora del Norte
+SKU-10339,Perfume Floral Dama 100ml,Belleza,Xiaomi,1207.35,107.0,2025-08-26,Distribuidora Nacional
+SKU-10340,Botella de Agua Térmica,DEPORTES,Zara,1799.27,155.0,09/04/2025,Distribuidora Sur Express
+SKU-10341,Balón de Fútbol Profesional,Deportes,Zara,11889.8,245.0,13/10/2025,Distribuidora Sur Express
+SKU-10342,Perfume Floral Dama 100ml,Belleza,HP,2424.2,274.0,21/10/2025,Distribuidora Nacional
+SKU-10343,Sudadera con Capucha,ROPA Y CALZADO,Under Armour,800.26,331.0,02/10/2025,Distribuidora Sur Express
+SKU-10344,Juego de Sábanas Matrimonial,Hogar y Cocina,Sony,291.82,132.0,17/04/2025,Distribuidora Comercial Integradora
+SKU-10345,Set de Brochas Cosméticas,Belleza,Maybelline,629.7,191.0,15/07/2025,Distribuidora Comercial Integradora
+SKU-10346,Crema Hidratante Facial,Belleza,Philips,2494.48,247.0,2025-02-10,Distribuidora Nacional
+SKU-10347,"Tablet HD 10""",Electrónica,Nike,,175.0,2025-08-26,Distribuidora Sur Express
+SKU-10348,Juego de Sábanas Matrimonial,Hogar y Cocina,Sony,4054.86,231.0,,Distribuidora Nacional
+SKU-10349,Consola de Videojuegos 1TB,Electrónica,Under Armour,4070.02,84.0,08/12/2025,Distribuidora Comercial Integradora
+SKU-10350,Tenis Deportivos Running,Ropa y Calzado,Loreal,,236.0,,Distribuidora del Norte
+SKU-10351,Sudadera con Capucha,Ropa y Calzado,Under Armour,,14.0,20/12/2025,Distribuidora Sur Express
+SKU-10352,Secador de Cabello Iónico,Belleza,Levis,109.68,109.0,09/04/2025,Distribuidora Nacional
+SKU-10353,Perfume Floral Dama 100ml,Belleza,HP,2192.62,,2025-06-11,Distribuidora Nacional
+SKU-10354,Aspiradora Robot Inteligente,Hogar y Cocina,Lenovo,4506.46,327.0,2025-06-20,Distribuidora Sur Express
+SKU-10355,Perfume Floral Dama 100ml,,Philips,944.12,234.0,06/10/2025,Distribuidora Global S.A.
+SKU-10356,Sérum Ácido Hialurónico,Belleza,Sony,1712.74,,2025-02-08,Distribuidora del Norte
+SKU-10357,Aspiradora Robot Inteligente,Hogar y Cocina,Nike,4694.26,214.0,05/10/2025,Distribuidora Sur Express
+SKU-10358,Chaqueta de Invierno Impermeable,Ropa y Calzado,Under Armour,1082.94,330.0,2025-03-18,Distribuidora Global S.A.
+SKU-10359,Camisa Casual Manga Larga,Ropa y Calzado,Philips,1555.08,317.0,2025-01-28,Distribuidora Nacional
+SKU-10360,Mancuernas de Neopreno 5kg,Deportes,Adidas,9810.31,287.0,2025-09-21,Distribuidora Sur Express
+SKU-10361,Botella de Agua Térmica,Deportes,Lenovo,5409.64,,2025-02-19,Distribuidora del Norte
+SKU-10362,Licuadora de Alta Potencia,Hogar y Cocina,Oster,2177.62,147.0,2025-03-25,Distribuidora Sur Express
+SKU-10363,Sérum Ácido Hialurónico,Belleza,Sony,1474.09,137.0,27/09/2025,Distribuidora Comercial Integradora
+SKU-10364,"Tablet HD 10""",,,14339.3,217.0,24/02/2025,Distribuidora del Norte
+SKU-10365,Licuadora de Alta Potencia,Hogar y Cocina,Zara,2511.77,44.0,28/08/2025,Distribuidora del Norte
+SKU-10366,Sudadera con Capucha,ropa y calzado,Maybelline,1318.16,312.0,2025-11-14,Distribuidora del Norte
+SKU-10367,Camisa Casual Manga Larga,Ropa y Calzado,HP,342.0,179.0,09/09/2025,Distribuidora del Norte
+SKU-10368,Aspiradora Robot Inteligente,hogar y cocina,Oster,2745.13,136.0,22/09/2025,Distribuidora del Norte
+SKU-10369,Balón de Fútbol Profesional,Deportes,Oster,10424.51,,2025-12-28,Distribuidora del Norte
+SKU-10370,Cafetera de Filtro Eléctrica,Hogar y Cocina,HP,7622.29,201.0,05/08/2025,Distribuidora Global S.A.
+SKU-10371,Bicicleta de Montaña R26,Deportes,Zara,1044.87,47.0,17/07/2025,Distribuidora Global S.A.
+SKU-10372,Bicicleta de Montaña R26,Deportes,Philips,7046.17,47.0,15/12/2025,Distribuidora Global S.A.
+SKU-10373,"Laptop Portátil 15.6""",Electrónica,Levis,6619.0,219.0,2025-04-16,Distribuidora Global S.A.
+SKU-10374,Cojín Decorativo Algodón,Hogar y Cocina,Maybelline,1348.23,248.0,,Distribuidora Nacional
+SKU-10375,"Tablet HD 10""",Electrónica,HP,21162.5,8.0,2025-02-28,Distribuidora Sur Express
+SKU-10376,Smartphone Android 128GB,ELECTRÓNICA,Adidas,24898.81,67.0,2025-11-10,Distribuidora Global S.A.
+SKU-10377,"  Tablet HD 10""  ",ELECTRÓNICA,Philips,7384.15,190.0,2025-11-21,Distribuidora Sur Express
+SKU-10378,Aspiradora Robot Inteligente,Hogar y Cocina,Xiaomi,6845.04,219.0,03/11/2025,Distribuidora Nacional
+SKU-10379,Chaqueta de Invierno Impermeable,Ropa y Calzado,Sony,455.68,115.0,2025-09-22,Distribuidora Nacional
+SKU-10380,Licuadora de Alta Potencia,Hogar y Cocina,Lenovo,3915.36,67.0,2025-08-03,Distribuidora Nacional
+SKU-10381,"Televisor Smart TV 55""",Electrónica,Philips,10137.7,153.0,13/03/2025,Distribuidora del Norte
+SKU-10382,Jeans de Mezclilla Hombre,Ropa y Calzado,Loreal,,312.0,2025-11-06,Distribuidora del Norte
+SKU-10383,Chaqueta de Invierno Impermeable,Ropa y Calzado,Maybelline,1314.18,111.0,2025-02-04,Distribuidora Nacional
+SKU-10384,Set de Brochas Cosméticas,Belleza,Levis,943.04,219.0,2025-06-26,Distribuidora Global S.A.
+SKU-10385,Auriculares Bluetooth inalámbricos,Electrónica,Loreal,15623.48,311.0,25/05/2025,Distribuidora Nacional
+SKU-10386,Cafetera de Filtro Eléctrica,Hogar y Cocina,Loreal,5539.96,96.0,2025-12-13,Distribuidora Nacional
+SKU-10387,Chaqueta de Invierno Impermeable,Ropa y Calzado,Levis,424.75,255.0,2025-11-20,Distribuidora Nacional
+SKU-10388,Juego de Sartenes Antiadherentes,Hogar y Cocina,Nike,3603.18,291.0,12/07/2025,Distribuidora del Norte
+SKU-10389,Balón de Fútbol Profesional,Deportes,Samsung,7110.26,7.0,2025-05-07,Distribuidora Nacional
+SKU-10390,Mochila de Senderismo 40L,Deportes,Oster,7598.56,256.0,14/07/2025,Distribuidora Nacional
+SKU-10391,Sérum Ácido Hialurónico,Belleza,Maybelline,465.59,42.0,03/05/2025,Distribuidora del Norte
+SKU-10392,Vestido Casual de Verano,Ropa y Calzado,Philips,855.63,324.0,22/11/2025,Distribuidora Global S.A.
+SKU-10393,Botella de Agua Térmica,Deportes,Lenovo,2977.85,125.0,2025-02-14,Distribuidora Comercial Integradora
+SKU-10394,Perfume Floral Dama 100ml,Belleza,Oster,1698.26,,2025-12-06,Distribuidora del Norte
+SKU-10395,Auriculares Bluetooth inalámbricos,,Zara,23895.88,267.0,26/09/2025,Distribuidora Global S.A.
+SKU-10396,Tenis Deportivos Running,Ropa y Calzado,Nike,1412.15,137.0,04/12/2025,Distribuidora Nacional
+SKU-10397,Juego de Sábanas Matrimonial,Hogar y Cocina,Oster,4808.92,134.0,19/12/2025,Distribuidora Sur Express
+SKU-10398,Mochila de Senderismo 40L,DEPORTES,Philips,806.95,290.0,2025-03-12,Distribuidora Nacional
+SKU-10399,Set de Brochas Cosméticas,Belleza,Xiaomi,375.92,260.0,02/01/2025,Distribuidora Nacional
+SKU-10400,Jeans de Mezclilla Hombre,Ropa y Calzado,,,76.0,2025-03-28,Distribuidora Sur Express
+SKU-10401,Tenis Deportivos Running,Ropa y Calzado,,895.2,,2025-05-27,Distribuidora Global S.A.
+SKU-10402,"Laptop Portátil 15.6""",Electrónica,Under Armour,22695.61,91.0,26/04/2025,Distribuidora Nacional
+SKU-10403,Balón de Fútbol Profesional,Deportes,Zara,10412.48,159.0,03/06/2025,Distribuidora Nacional
+SKU-10404,Cafetera de Filtro Eléctrica,Hogar y Cocina,Oster,5160.5,155.0,2025-12-20,Distribuidora Global S.A.
+SKU-10405,Secador de Cabello Iónico,Belleza,HP,1961.9,279.0,2025-04-05,Distribuidora Sur Express
+SKU-10406,Auriculares Bluetooth inalámbricos,Electrónica,Loreal,9640.96,4.0,01/06/2025,Distribuidora Sur Express
+SKU-10407,Licuadora de Alta Potencia,Hogar y Cocina,Adidas,4861.37,121.0,16/07/2025,Distribuidora del Norte
+SKU-10408,Licuadora de Alta Potencia,Hogar y Cocina,Samsung,8306.21,266.0,,Distribuidora Sur Express
+SKU-10409,"Laptop Portátil 15.6""",Electrónica,Sony,13377.55,326.0,03/07/2025,Distribuidora Nacional
+SKU-10410,Botella de Agua Térmica,Deportes,Nike,2955.75,133.0,2025-06-26,Distribuidora Global S.A.
+SKU-10411,Juego de Sábanas Matrimonial,Hogar y Cocina,Oster,2254.78,103.0,25/03/2025,Distribuidora Nacional
+SKU-10412,Jeans de Mezclilla Hombre,Ropa y Calzado,Nike,946.83,160.0,04/07/2025,Distribuidora del Norte
+SKU-10413,Tapete de Yoga Antideslizante,Deportes,Zara,3290.34,61.0,06/02/2025,Distribuidora Global S.A.
+SKU-10414,Perfume Floral Dama 100ml,Belleza,Adidas,2106.06,167.0,03/03/2025,Distribuidora Global S.A.
+SKU-10415,Mochila de Senderismo 40L,Deportes,Samsung,8174.62,133.0,01/03/2025,Distribuidora Sur Express
+SKU-10416,Set de Brochas Cosméticas,Belleza,Loreal,698.9,236.0,26/02/2025,Distribuidora Nacional
+SKU-10417,"Televisor Smart TV 55""",Electrónica,Lenovo,19852.56,113.0,07/03/2025,Distribuidora Global S.A.
+SKU-10418,"Laptop Portátil 15.6""",Electrónica,Maybelline,7582.29,38.0,2025-01-03,Distribuidora Sur Express
+SKU-10419,Jeans de Mezclilla Hombre,,Lenovo,,169.0,02/02/2025,Distribuidora Nacional
+SKU-10420,Vestido Casual de Verano,Ropa y Calzado,Levis,1523.61,,2025-08-01,Distribuidora Sur Express
+SKU-10421,Tenis Deportivos Running,Ropa y Calzado,Adidas,1657.87,140.0,15/05/2025,Distribuidora Nacional
+SKU-10422,Sérum Ácido Hialurónico,Belleza,Maybelline,689.13,151.0,14/08/2025,Distribuidora Sur Express
+SKU-10423,"Televisor Smart TV 55""",,Oster,10500.86,214.0,21/04/2025,Distribuidora Comercial Integradora
+SKU-10424,Sudadera con Capucha,Ropa y Calzado,HP,1092.67,9.0,26/07/2025,Distribuidora Sur Express
+SKU-10425,Secador de Cabello Iónico,Belleza,Philips,2290.34,257.0,2025-06-13,Distribuidora Nacional
+SKU-10426,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,456.87,143.0,26/01/2025,Distribuidora Comercial Integradora
+SKU-10427,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,8770.02,,2025-04-22,Distribuidora Comercial Integradora
+SKU-10428,Auriculares Bluetooth inalámbricos,Electrónica,Maybelline,21392.87,198.0,27/06/2025,Distribuidora del Norte
+SKU-10429,Camisa Casual Manga Larga,Ropa y Calzado,Maybelline,742.91,183.0,01/10/2025,Distribuidora Global S.A.
+SKU-10430,Sérum Ácido Hialurónico,Belleza,Nike,,96.0,2025-08-18,Distribuidora Sur Express
+SKU-10431,"Televisor Smart TV 55""",Electrónica,Samsung,6966.65,112.0,2025-01-17,Distribuidora Global S.A.
+SKU-10432,Crema Hidratante Facial,Belleza,,412.31,90.0,2025-06-02,Distribuidora Comercial Integradora
+SKU-10433,Jeans de Mezclilla Hombre,Ropa y Calzado,Lenovo,1065.76,186.0,12/02/2025,Distribuidora Sur Express
+SKU-10434,Perfume Floral Dama 100ml,Belleza,Philips,823.54,69.0,24/03/2025,Distribuidora Sur Express
+SKU-10435,Cafetera de Filtro Eléctrica,Hogar y Cocina,,8723.94,314.0,08/06/2025,Distribuidora del Norte
+SKU-10436,Tapete de Yoga Antideslizante,Deportes,Xiaomi,8308.71,65.0,2025-03-24,Distribuidora Comercial Integradora
+SKU-10437,Mochila de Senderismo 40L,,Samsung,2307.67,162.0,08/10/2025,Distribuidora Nacional
+SKU-10438,Mancuernas de Neopreno 5kg,Deportes,Philips,8982.32,121.0,2025-06-11,Distribuidora Nacional
+SKU-10439,Juego de Sábanas Matrimonial,Hogar y Cocina,Samsung,2532.87,127.0,2025-12-03,Distribuidora Nacional
+SKU-10440,"Televisor Smart TV 55""",Electrónica,Levis,11798.17,214.0,2025-03-14,Distribuidora Sur Express
+SKU-10441,Cojín Decorativo Algodón,Hogar y Cocina,Levis,1091.57,,21/10/2025,Distribuidora del Norte
+SKU-10442,Chaqueta de Invierno Impermeable,Ropa y Calzado,Sony,1488.75,,2025-05-01,Distribuidora Nacional
+SKU-10443,Consola de Videojuegos 1TB,,Nike,22366.38,82.0,03/12/2025,Distribuidora Nacional
+SKU-10444,Cojín Decorativo Algodón,Hogar y Cocina,Maybelline,8059.39,15.0,2025-07-21,Distribuidora Sur Express
+SKU-10445,Jeans de Mezclilla Hombre,,Sony,763.2,97.0,23/07/2025,Distribuidora Comercial Integradora
+SKU-10446,Aspiradora Robot Inteligente,hogar y cocina,Oster,2816.13,49.0,13/01/2025,Distribuidora Sur Express
+SKU-10447,Jeans de Mezclilla Hombre,Ropa y Calzado,Philips,255.91,44.0,27/05/2025,Distribuidora Comercial Integradora
+SKU-10448,Mancuernas de Neopreno 5kg,Deportes,Sony,454.97,87.0,10/11/2025,Distribuidora Sur Express
+SKU-10449,Consola de Videojuegos 1TB,Electrónica,HP,10840.48,250.0,2025-11-09,Distribuidora Comercial Integradora
+SKU-10450,  Mancuernas de Neopreno 5kg  ,Deportes,Philips,10643.09,189.0,2025-03-15,Distribuidora Sur Express
+SKU-10451,Tapete de Yoga Antideslizante,Deportes,Adidas,10069.38,288.0,05/01/2025,Distribuidora Nacional
+SKU-10452,"Tablet HD 10""",Electrónica,Philips,20492.23,211.0,08/10/2025,Distribuidora Sur Express
+SKU-10453,Secador de Cabello Iónico,Belleza,Loreal,1748.65,,,Distribuidora Nacional
+SKU-10454,Botella de Agua Térmica,DEPORTES,Samsung,6099.9,264.0,22/10/2025,Distribuidora del Norte
+SKU-10455,Smartphone Android 128GB,Electrónica,Nike,23802.94,85.0,2025-04-26,Distribuidora Nacional
+SKU-10456,Balón de Fútbol Profesional,Deportes,Under Armour,5309.41,321.0,27/03/2025,Distribuidora Global S.A.
+SKU-10457,"Televisor Smart TV 55""",Electrónica,Levis,14574.56,282.0,2025-06-28,Distribuidora Sur Express
+SKU-10458,"Tablet HD 10""",Electrónica,Maybelline,15308.04,,2025-02-14,Distribuidora Comercial Integradora
+SKU-10459,Sérum Ácido Hialurónico,Belleza,,2415.56,51.0,19/02/2025,Distribuidora Global S.A.
+SKU-10460,Kit de Maquillaje Profesional,Belleza,Levis,733.19,335.0,19/08/2025,Distribuidora Nacional
+SKU-10461,Tenis Deportivos Running,ROPA Y CALZADO,Levis,,311.0,2025-11-23,Distribuidora Sur Express
+SKU-10462,Aspiradora Robot Inteligente,hogar y cocina,Adidas,632.76,243.0,2025-05-12,Distribuidora Global S.A.
+SKU-10463,Juego de Sartenes Antiadherentes,Hogar y Cocina,Lenovo,,350.0,2025-02-28,Distribuidora Global S.A.
+SKU-10464,Tapete de Yoga Antideslizante,Deportes,Oster,8786.27,309.0,2025-11-03,Distribuidora del Norte
+SKU-10465,Botella de Agua Térmica,Deportes,Zara,9150.0,191.0,17/01/2025,Distribuidora Nacional
+SKU-10466,Aspiradora Robot Inteligente,Hogar y Cocina,Loreal,,268.0,2025-10-01,Distribuidora del Norte
+SKU-10467,Auriculares Bluetooth inalámbricos,Electrónica,Samsung,12226.54,184.0,2025-12-07,Distribuidora Sur Express
+SKU-10468,Secador de Cabello Iónico,Belleza,,2315.3,348.0,2025-01-08,Distribuidora Comercial Integradora
+SKU-10469,Mancuernas de Neopreno 5kg,Deportes,Lenovo,5773.8,282.0,2025-06-12,Distribuidora Global S.A.
+SKU-10470,Consola de Videojuegos 1TB,Electrónica,Samsung,10584.29,83.0,25/10/2025,Distribuidora del Norte
+SKU-10471,Sudadera con Capucha,ROPA Y CALZADO,Adidas,667.08,209.0,01/09/2025,Distribuidora Nacional
+SKU-10472,Mancuernas de Neopreno 5kg,Deportes,Under Armour,2202.43,4.0,09/04/2025,Distribuidora Global S.A.
+SKU-10473,Juego de Sábanas Matrimonial,Hogar y Cocina,Levis,7692.96,235.0,2025-05-07,Distribuidora Comercial Integradora
+SKU-10474,Secador de Cabello Iónico,Belleza,Maybelline,344.65,261.0,27/11/2025,Distribuidora Comercial Integradora
+SKU-10475,Sérum Ácido Hialurónico,Belleza,Oster,815.64,55.0,2025-08-03,Distribuidora Global S.A.
+SKU-10476,Juego de Sartenes Antiadherentes,Hogar y Cocina,Oster,5972.85,333.0,2025-05-07,Distribuidora del Norte
+SKU-10477,"Laptop Portátil 15.6""",Electrónica,Levis,17022.46,348.0,2025-03-24,Distribuidora Sur Express
+SKU-10478,Juego de Sartenes Antiadherentes,Hogar y Cocina,Levis,3759.47,18.0,23/10/2025,Distribuidora del Norte
+SKU-10479,  Aspiradora Robot Inteligente  ,Hogar y Cocina,Xiaomi,2155.8,273.0,2025-11-26,Distribuidora Global S.A.
+SKU-10480,Kit de Maquillaje Profesional,,Lenovo,507.14,336.0,2025-09-06,Distribuidora Sur Express
+SKU-10481,Sudadera con Capucha,Ropa y Calzado,Oster,1374.04,286.0,22/03/2025,Distribuidora Nacional
+SKU-10482,Tenis Deportivos Running,Ropa y Calzado,Adidas,1403.53,157.0,26/07/2025,Distribuidora Global S.A.
+SKU-10483,Cojín Decorativo Algodón,Hogar y Cocina,Oster,4280.09,60.0,02/08/2025,Distribuidora Comercial Integradora
+SKU-10484,Sérum Ácido Hialurónico,Belleza,Sony,1232.8,99.0,,Distribuidora Sur Express
+SKU-10485,Kit de Maquillaje Profesional,Belleza,Levis,228.8,77.0,2025-03-07,Distribuidora Comercial Integradora
+SKU-10486,Mancuernas de Neopreno 5kg,Deportes,,10369.37,92.0,2025-02-16,Distribuidora del Norte
+SKU-10487,Aspiradora Robot Inteligente,Hogar y Cocina,Samsung,240.48,140.0,25/04/2025,Distribuidora Comercial Integradora
+SKU-10488,Chaqueta de Invierno Impermeable,Ropa y Calzado,HP,1433.53,45.0,2025-03-20,Distribuidora Sur Express
+SKU-10489,  Bicicleta de Montaña R26  ,,Zara,4692.3,19.0,07/09/2025,Distribuidora Nacional
+SKU-10490,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,356.66,2.0,2025-11-24,Distribuidora Global S.A.
+SKU-10491,Cafetera de Filtro Eléctrica,Hogar y Cocina,Sony,3574.24,301.0,2025-05-06,Distribuidora Nacional
+SKU-10492,Juego de Sartenes Antiadherentes,Hogar y Cocina,Zara,6603.92,305.0,2025-09-11,Distribuidora del Norte
+SKU-10493,Juego de Sábanas Matrimonial,Hogar y Cocina,Philips,6800.02,84.0,2025-07-01,Distribuidora del Norte
+SKU-10494,Sudadera con Capucha,Ropa y Calzado,Samsung,1164.02,86.0,12/02/2025,Distribuidora Nacional
+SKU-10495,Botella de Agua Térmica,Deportes,Oster,9289.31,319.0,20/01/2025,Distribuidora Nacional
+SKU-10496,"Televisor Smart TV 55""",Electrónica,Xiaomi,4221.06,227.0,04/07/2025,Distribuidora Sur Express
+SKU-10497,Camisa Casual Manga Larga,Ropa y Calzado,Xiaomi,1312.9,4.0,14/05/2025,Distribuidora Comercial Integradora
+SKU-10498,Cojín Decorativo Algodón,Hogar y Cocina,Maybelline,6365.39,214.0,17/02/2025,Distribuidora Nacional
+SKU-10499,Licuadora de Alta Potencia,,HP,1134.12,101.0,,Distribuidora Comercial Integradora
+SKU-10500,Tenis Deportivos Running,Ropa y Calzado,Xiaomi,885.12,82.0,2025-01-18,Distribuidora del Norte
+SKU-10501,Tapete de Yoga Antideslizante,Deportes,Adidas,182.45,343.0,04/02/2025,Distribuidora Sur Express
+SKU-10502,Jeans de Mezclilla Hombre,Ropa y Calzado,HP,1043.14,51.0,2025-05-21,Distribuidora Global S.A.
+SKU-10503,Juego de Sábanas Matrimonial,Hogar y Cocina,Samsung,1077.32,,2025-01-28,Distribuidora Global S.A.
+SKU-10504,Botella de Agua Térmica,Deportes,Sony,1275.73,23.0,2025-01-28,Distribuidora del Norte
+SKU-10505,Juego de Sartenes Antiadherentes,Hogar y Cocina,,8603.78,137.0,2025-12-03,Distribuidora Global S.A.
+SKU-10506,Jeans de Mezclilla Hombre,Ropa y Calzado,Levis,870.39,233.0,2025-05-27,Distribuidora Sur Express
+SKU-10507,Botella de Agua Térmica,Deportes,HP,2126.33,67.0,2025-12-24,Distribuidora del Norte
+SKU-10508,Smartphone Android 128GB,Electrónica,Maybelline,12842.86,291.0,,Distribuidora Sur Express
+SKU-10509,Cojín Decorativo Algodón,Hogar y Cocina,Samsung,7789.67,66.0,2025-08-16,Distribuidora Sur Express
+SKU-10510,Balón de Fútbol Profesional,Deportes,Sony,3250.11,160.0,23/01/2025,Distribuidora Comercial Integradora
+SKU-10511,Set de Brochas Cosméticas,Belleza,Maybelline,636.79,342.0,17/06/2025,Distribuidora Comercial Integradora
+SKU-10512,Smartphone Android 128GB,,Under Armour,18576.32,246.0,22/06/2025,Distribuidora Sur Express
+SKU-10513,Vestido Casual de Verano,Ropa y Calzado,Maybelline,334.58,329.0,,Distribuidora Sur Express
+SKU-10514,Jeans de Mezclilla Hombre,Ropa y Calzado,HP,1012.05,123.0,2025-06-09,Distribuidora del Norte
+SKU-10515,Set de Brochas Cosméticas,Belleza,Levis,1067.27,120.0,2025-02-15,Distribuidora Comercial Integradora
+SKU-10516,Balón de Fútbol Profesional,Deportes,Lenovo,6056.71,161.0,16/02/2025,Distribuidora Nacional
+SKU-10517,Smartphone Android 128GB,Electrónica,Levis,2342.05,281.0,2025-01-27,Distribuidora Comercial Integradora
+SKU-10518,Set de Brochas Cosméticas,Belleza,Oster,2236.16,287.0,,Distribuidora Global S.A.
+SKU-10519,Licuadora de Alta Potencia,Hogar y Cocina,Lenovo,2160.68,232.0,18/06/2025,Distribuidora Comercial Integradora
+SKU-10520,Botella de Agua Térmica,Deportes,Under Armour,,231.0,04/02/2025,Distribuidora del Norte
+SKU-10521,Consola de Videojuegos 1TB,Electrónica,Philips,21002.27,149.0,2025-09-17,Distribuidora Nacional
+SKU-10522,  Auriculares Bluetooth inalámbricos  ,Electrónica,Zara,4800.56,209.0,09/02/2025,Distribuidora del Norte
+SKU-10523,Smartphone Android 128GB,Electrónica,,12240.58,97.0,2025-12-11,Distribuidora Sur Express
+SKU-10524,"  Tablet HD 10""  ",Electrónica,Lenovo,17295.33,63.0,15/08/2025,Distribuidora Comercial Integradora
+SKU-10525,Chaqueta de Invierno Impermeable,Ropa y Calzado,Samsung,1072.06,24.0,14/09/2025,Distribuidora Sur Express
+SKU-10526,Crema Hidratante Facial,Belleza,Xiaomi,1488.11,,13/02/2025,Distribuidora Comercial Integradora
+SKU-10527,Cojín Decorativo Algodón,Hogar y Cocina,Levis,3883.25,,2025-12-25,Distribuidora Sur Express
+SKU-10528,Juego de Sartenes Antiadherentes,Hogar y Cocina,Zara,7281.21,70.0,,Distribuidora Comercial Integradora
+SKU-10529,Aspiradora Robot Inteligente,HOGAR Y COCINA,Loreal,7773.23,283.0,2025-11-07,Distribuidora Comercial Integradora
+SKU-10530,Aspiradora Robot Inteligente,Hogar y Cocina,Philips,8305.49,67.0,21/12/2025,Distribuidora del Norte
+SKU-10531,Sérum Ácido Hialurónico,Belleza,Xiaomi,1628.14,59.0,2025-06-18,Distribuidora Comercial Integradora
+SKU-10532,Botella de Agua Térmica,Deportes,Xiaomi,10742.31,273.0,2025-05-28,Distribuidora Nacional
+SKU-10533,Perfume Floral Dama 100ml,Belleza,Samsung,1013.47,27.0,2025-11-02,Distribuidora del Norte
+SKU-10534,Aspiradora Robot Inteligente,hogar y cocina,Oster,1487.57,31.0,2025-12-26,Distribuidora Comercial Integradora
+SKU-10535,Consola de Videojuegos 1TB,ELECTRÓNICA,Lenovo,12135.97,315.0,24/11/2025,Distribuidora del Norte
+SKU-10536,Secador de Cabello Iónico,BELLEZA,Adidas,1325.72,147.0,2025-12-22,Distribuidora Sur Express
+SKU-10537,Bicicleta de Montaña R26,Deportes,HP,11713.5,160.0,2025-09-02,Distribuidora Global S.A.
+SKU-10538,Vestido Casual de Verano,Ropa y Calzado,Lenovo,1460.43,226.0,21/04/2025,Distribuidora Global S.A.
+SKU-10539,  Sérum Ácido Hialurónico  ,Belleza,Xiaomi,1547.73,99.0,2025-05-15,Distribuidora Nacional
+SKU-10540,Camisa Casual Manga Larga,Ropa y Calzado,Xiaomi,1046.46,,,Distribuidora Global S.A.
+SKU-10541,Camisa Casual Manga Larga,Ropa y Calzado,Maybelline,1561.32,2.0,15/06/2025,Distribuidora del Norte
+SKU-10542,Auriculares Bluetooth inalámbricos,Electrónica,Philips,15526.69,320.0,27/10/2025,Distribuidora Sur Express
+SKU-10543,Sérum Ácido Hialurónico,BELLEZA,Philips,273.99,162.0,08/09/2025,Distribuidora Comercial Integradora
+SKU-10544,"Laptop Portátil 15.6""",Electrónica,Nike,,274.0,2025-07-03,Distribuidora del Norte
+SKU-10545,Juego de Sartenes Antiadherentes,Hogar y Cocina,Philips,2782.45,316.0,16/09/2025,Distribuidora Nacional
+SKU-10546,"Tablet HD 10""",ELECTRÓNICA,Philips,11973.18,,2025-10-20,Distribuidora Nacional
+SKU-10547,  Juego de Sábanas Matrimonial  ,Hogar y Cocina,HP,8514.89,197.0,18/05/2025,Distribuidora Nacional
+SKU-10548,Kit de Maquillaje Profesional,Belleza,Loreal,2026.56,228.0,2025-08-02,Distribuidora del Norte
+SKU-10549,Cojín Decorativo Algodón,Hogar y Cocina,Sony,8543.26,85.0,2025-09-18,Distribuidora Nacional
+SKU-10550,  Sudadera con Capucha  ,Ropa y Calzado,Under Armour,1449.05,350.0,2025-07-27,Distribuidora Comercial Integradora
+SKU-10551,Botella de Agua Térmica,Deportes,Lenovo,11286.05,78.0,,Distribuidora Nacional
+SKU-10552,"Televisor Smart TV 55""",Electrónica,Samsung,5682.82,128.0,03/09/2025,Distribuidora del Norte
+SKU-10553,Juego de Sábanas Matrimonial,Hogar y Cocina,Levis,,207.0,2025-07-11,Distribuidora Nacional
+SKU-10554,Perfume Floral Dama 100ml,Belleza,Under Armour,1828.41,32.0,2025-12-19,Distribuidora Nacional
+SKU-10555,Cojín Decorativo Algodón,Hogar y Cocina,Sony,2749.56,154.0,2025-10-03,Distribuidora Sur Express
+SKU-10556,Bicicleta de Montaña R26,Deportes,Lenovo,7979.57,242.0,2025-03-18,Distribuidora Sur Express
+SKU-10557,Kit de Maquillaje Profesional,Belleza,Under Armour,444.93,,2025-12-21,Distribuidora Nacional
+SKU-10558,Sérum Ácido Hialurónico,Belleza,Nike,394.89,2.0,2025-10-20,Distribuidora Comercial Integradora
+SKU-10559,Consola de Videojuegos 1TB,Electrónica,Adidas,19084.97,,14/04/2025,Distribuidora Comercial Integradora
+SKU-10560,Camisa Casual Manga Larga,Ropa y Calzado,Nike,,,2025-04-04,Distribuidora Comercial Integradora
+SKU-10561,"Laptop Portátil 15.6""",Electrónica,Zara,16649.85,37.0,2025-05-22,Distribuidora Nacional
+SKU-10562,Sudadera con Capucha,Ropa y Calzado,Maybelline,1005.15,169.0,05/06/2025,Distribuidora del Norte
+SKU-10563,Consola de Videojuegos 1TB,Electrónica,Maybelline,3140.51,99.0,2025-06-16,Distribuidora Comercial Integradora
+SKU-10564,Aspiradora Robot Inteligente,Hogar y Cocina,Maybelline,1540.08,290.0,2025-06-26,Distribuidora Sur Express
+SKU-10565,Jeans de Mezclilla Hombre,Ropa y Calzado,Philips,631.57,113.0,24/12/2025,Distribuidora Global S.A.
+SKU-10566,Cafetera de Filtro Eléctrica,Hogar y Cocina,Under Armour,6649.16,245.0,2025-08-15,Distribuidora Global S.A.
+SKU-10567,Mochila de Senderismo 40L,Deportes,Sony,2232.88,310.0,2025-02-27,Distribuidora del Norte
+SKU-10568,Crema Hidratante Facial,,Oster,1860.24,320.0,2025-02-24,Distribuidora Nacional
+SKU-10569,Set de Brochas Cosméticas,Belleza,Samsung,2050.15,296.0,25/07/2025,Distribuidora Nacional
+SKU-10570,Kit de Maquillaje Profesional,Belleza,Loreal,2245.46,276.0,21/08/2025,Distribuidora Global S.A.
+SKU-10571,Mancuernas de Neopreno 5kg,Deportes,HP,7136.77,148.0,15/03/2025,Distribuidora Nacional
+SKU-10572,Tapete de Yoga Antideslizante,,Loreal,275.51,122.0,2025-10-22,Distribuidora Comercial Integradora
+SKU-10573,Chaqueta de Invierno Impermeable,Ropa y Calzado,Nike,527.68,289.0,28/11/2025,Distribuidora Sur Express
+SKU-10574,Licuadora de Alta Potencia,Hogar y Cocina,Adidas,6899.96,118.0,2025-02-09,Distribuidora Nacional
+SKU-10575,Vestido Casual de Verano,Ropa y Calzado,HP,809.94,240.0,2025-08-02,Distribuidora Global S.A.
+SKU-10576,"Tablet HD 10""",Electrónica,Loreal,16388.82,140.0,09/12/2025,Distribuidora Comercial Integradora
+SKU-10577,Chaqueta de Invierno Impermeable,Ropa y Calzado,Under Armour,836.7,300.0,2025-11-27,Distribuidora Global S.A.
+SKU-10578,Mancuernas de Neopreno 5kg,Deportes,Loreal,4959.23,176.0,2025-08-26,Distribuidora Comercial Integradora
+SKU-10579,"Laptop Portátil 15.6""",Electrónica,Nike,11837.62,117.0,17/02/2025,Distribuidora del Norte
+SKU-10580,Camisa Casual Manga Larga,Ropa y Calzado,Nike,811.45,60.0,2025-11-08,Distribuidora Global S.A.
+SKU-10581,Smartphone Android 128GB,Electrónica,Under Armour,12752.14,107.0,06/10/2025,Distribuidora Sur Express
+SKU-10582,Auriculares Bluetooth inalámbricos,Electrónica,Samsung,4505.3,303.0,05/03/2025,Distribuidora Nacional
+SKU-10583,Crema Hidratante Facial,Belleza,Samsung,498.39,92.0,13/09/2025,Distribuidora Comercial Integradora
+SKU-10584,"Tablet HD 10""",Electrónica,Xiaomi,17051.01,145.0,2025-02-07,Distribuidora Sur Express
+SKU-10585,Mancuernas de Neopreno 5kg,Deportes,Adidas,9989.81,307.0,26/03/2025,Distribuidora del Norte
+SKU-10586,Set de Brochas Cosméticas,Belleza,Loreal,734.11,175.0,20/08/2025,Distribuidora del Norte
+SKU-10587,Bicicleta de Montaña R26,Deportes,Nike,1436.56,103.0,28/09/2025,Distribuidora Sur Express
+SKU-10588,Vestido Casual de Verano,Ropa y Calzado,Sony,525.0,314.0,02/10/2025,Distribuidora Comercial Integradora
+SKU-10589,Perfume Floral Dama 100ml,Belleza,Sony,1256.86,66.0,18/10/2025,Distribuidora Sur Express
+SKU-10590,Secador de Cabello Iónico,Belleza,Philips,2199.45,271.0,08/07/2025,Distribuidora Sur Express
+SKU-10591,Tapete de Yoga Antideslizante,Deportes,Maybelline,,294.0,2025-02-14,Distribuidora Sur Express
+SKU-10592,  Jeans de Mezclilla Hombre  ,Ropa y Calzado,Oster,1177.35,278.0,2025-07-09,Distribuidora Nacional
+SKU-10593,Sérum Ácido Hialurónico,Belleza,Sony,1346.95,192.0,07/11/2025,Distribuidora Global S.A.
+SKU-10594,Tapete de Yoga Antideslizante,Deportes,Sony,1984.13,333.0,,Distribuidora Comercial Integradora
+SKU-10595,Mochila de Senderismo 40L,,Philips,7400.79,348.0,2025-07-25,Distribuidora Comercial Integradora
+SKU-10596,Secador de Cabello Iónico,Belleza,Nike,987.88,284.0,09/08/2025,Distribuidora Comercial Integradora
+SKU-10597,Aspiradora Robot Inteligente,Hogar y Cocina,Levis,6673.89,337.0,2025-02-24,Distribuidora del Norte
+SKU-10598,Auriculares Bluetooth inalámbricos,Electrónica,Loreal,10913.18,,20/09/2025,Distribuidora Nacional
+SKU-10599,Chaqueta de Invierno Impermeable,Ropa y Calzado,Under Armour,258.2,46.0,16/03/2025,Distribuidora Sur Express
+SKU-10600,"Televisor Smart TV 55""",,Oster,6711.6,40.0,02/10/2025,Distribuidora Sur Express
+SKU-10601,Set de Brochas Cosméticas,,,786.81,,25/01/2025,Distribuidora Sur Express
+SKU-10602,Balón de Fútbol Profesional,Deportes,Adidas,10229.23,265.0,2025-05-07,Distribuidora Comercial Integradora
+SKU-10603,Sérum Ácido Hialurónico,Belleza,Xiaomi,655.24,86.0,2025-11-02,Distribuidora Nacional
+SKU-10604,Jeans de Mezclilla Hombre,Ropa y Calzado,Oster,1458.49,180.0,2025-11-13,Distribuidora del Norte
+SKU-10605,Perfume Floral Dama 100ml,Belleza,Xiaomi,1788.4,46.0,10/09/2025,Distribuidora Comercial Integradora
+SKU-10606,Kit de Maquillaje Profesional,Belleza,Philips,2411.85,141.0,20/04/2025,Distribuidora Sur Express
+SKU-10607,Mochila de Senderismo 40L,,Samsung,3244.12,208.0,04/09/2025,Distribuidora Comercial Integradora
+SKU-10608,Juego de Sartenes Antiadherentes,Hogar y Cocina,Sony,7264.89,131.0,27/09/2025,Distribuidora Global S.A.
+SKU-10609,Bicicleta de Montaña R26,Deportes,,5881.01,124.0,2025-06-25,Distribuidora Sur Express
+SKU-10610,Perfume Floral Dama 100ml,Belleza,Zara,378.16,34.0,21/07/2025,Distribuidora del Norte
+SKU-10611,Tenis Deportivos Running,Ropa y Calzado,Levis,1730.94,264.0,01/09/2025,Distribuidora Global S.A.
+SKU-10612,Tenis Deportivos Running,Ropa y Calzado,Sony,868.34,175.0,18/02/2025,Distribuidora Sur Express
+SKU-10613,Juego de Sartenes Antiadherentes,Hogar y Cocina,Adidas,8068.98,137.0,24/03/2025,Distribuidora del Norte
+SKU-10614,Botella de Agua Térmica,Deportes,Adidas,2933.11,123.0,2025-05-07,Distribuidora del Norte
+SKU-10615,Kit de Maquillaje Profesional,Belleza,Nike,1969.23,61.0,22/02/2025,Distribuidora Sur Express
+SKU-10616,Perfume Floral Dama 100ml,Belleza,HP,2156.87,21.0,,Distribuidora Sur Express
+SKU-10617,Kit de Maquillaje Profesional,Belleza,Zara,,261.0,2025-05-13,Distribuidora Comercial Integradora
+SKU-10618,Jeans de Mezclilla Hombre,Ropa y Calzado,Loreal,1488.87,244.0,02/09/2025,Distribuidora Sur Express
+SKU-10619,Chaqueta de Invierno Impermeable,Ropa y Calzado,Sony,1332.28,235.0,2025-06-23,Distribuidora del Norte
+SKU-10620,Mochila de Senderismo 40L,Deportes,Sony,,313.0,06/05/2025,Distribuidora del Norte
+SKU-10621,  Juego de Sábanas Matrimonial  ,Hogar y Cocina,Maybelline,3218.25,94.0,2025-08-14,Distribuidora Global S.A.
+SKU-10622,Juego de Sábanas Matrimonial,Hogar y Cocina,Oster,,292.0,19/03/2025,Distribuidora Nacional
+SKU-10623,Cafetera de Filtro Eléctrica,Hogar y Cocina,,4002.53,195.0,05/04/2025,Distribuidora del Norte
+SKU-10624,Balón de Fútbol Profesional,Deportes,Nike,,68.0,17/11/2025,Distribuidora Global S.A.
+SKU-10625,Tapete de Yoga Antideslizante,DEPORTES,Oster,6811.34,290.0,2025-01-13,Distribuidora del Norte
+SKU-10626,Auriculares Bluetooth inalámbricos,Electrónica,Lenovo,7475.81,322.0,15/02/2025,Distribuidora Global S.A.
+SKU-10627,Juego de Sartenes Antiadherentes,hogar y cocina,Loreal,5104.93,131.0,2025-06-01,Distribuidora Global S.A.
+SKU-10628,Crema Hidratante Facial,Belleza,Maybelline,1481.72,332.0,06/09/2025,Distribuidora Global S.A.
+SKU-10629,Juego de Sartenes Antiadherentes,Hogar y Cocina,Under Armour,4690.91,228.0,13/02/2025,Distribuidora Sur Express
+SKU-10630,Camisa Casual Manga Larga,Ropa y Calzado,Under Armour,1501.96,172.0,21/07/2025,Distribuidora Sur Express
+SKU-10631,"Televisor Smart TV 55""",Electrónica,Nike,9575.2,160.0,,Distribuidora Global S.A.
+SKU-10632,Set de Brochas Cosméticas,Belleza,Levis,750.27,227.0,24/06/2025,Distribuidora Sur Express
+SKU-10633,Mancuernas de Neopreno 5kg,Deportes,,10272.41,64.0,08/12/2025,Distribuidora Nacional
+SKU-10634,Camisa Casual Manga Larga,Ropa y Calzado,Levis,409.66,32.0,2025-08-18,Distribuidora Sur Express
+SKU-10635,Perfume Floral Dama 100ml,Belleza,Sony,729.15,79.0,21/02/2025,Distribuidora Sur Express
+SKU-10636,Cafetera de Filtro Eléctrica,hogar y cocina,Adidas,6689.82,226.0,2025-11-05,Distribuidora del Norte
+SKU-10637,"Televisor Smart TV 55""",Electrónica,Under Armour,,166.0,15/08/2025,Distribuidora Comercial Integradora
+SKU-10638,Cojín Decorativo Algodón,Hogar y Cocina,Zara,1388.01,276.0,19/03/2025,Distribuidora Comercial Integradora
+SKU-10639,Mochila de Senderismo 40L,Deportes,Under Armour,,158.0,16/06/2025,Distribuidora Nacional
+SKU-10640,Tapete de Yoga Antideslizante,Deportes,Philips,5034.62,79.0,2025-05-01,Distribuidora del Norte
+SKU-10641,Juego de Sartenes Antiadherentes,Hogar y Cocina,Zara,4907.87,,2025-08-10,Distribuidora Sur Express
+SKU-10642,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,7210.55,280.0,2025-06-07,Distribuidora Comercial Integradora
+SKU-10643,  Bicicleta de Montaña R26  ,Deportes,Adidas,2084.74,330.0,2025-07-27,Distribuidora Global S.A.
+SKU-10644,Smartphone Android 128GB,Electrónica,Under Armour,7129.7,313.0,2025-12-22,Distribuidora Comercial Integradora
+SKU-10645,Juego de Sábanas Matrimonial,Hogar y Cocina,Adidas,7709.64,93.0,2025-03-10,Distribuidora Sur Express
+SKU-10646,Secador de Cabello Iónico,Belleza,Oster,1780.83,,2025-04-11,Distribuidora Nacional
+SKU-10647,Perfume Floral Dama 100ml,Belleza,Nike,2433.57,144.0,05/05/2025,Distribuidora Nacional
+SKU-10648,Jeans de Mezclilla Hombre,Ropa y Calzado,Nike,272.82,111.0,2025-06-14,Distribuidora Sur Express
+SKU-10649,Juego de Sábanas Matrimonial,Hogar y Cocina,,7163.54,169.0,27/02/2025,Distribuidora del Norte
+SKU-10650,Consola de Videojuegos 1TB,Electrónica,HP,10721.91,278.0,2025-08-06,Distribuidora Global S.A.
+SKU-10651,Balón de Fútbol Profesional,Deportes,Sony,11698.99,127.0,25/07/2025,Distribuidora del Norte
+SKU-10652,Auriculares Bluetooth inalámbricos,ELECTRÓNICA,Zara,18780.09,48.0,22/09/2025,Distribuidora Sur Express
+SKU-10653,Botella de Agua Térmica,Deportes,Oster,11244.15,81.0,2025-11-24,Distribuidora Comercial Integradora
+SKU-10654,Perfume Floral Dama 100ml,Belleza,,,152.0,12/04/2025,Distribuidora del Norte
+SKU-10655,Auriculares Bluetooth inalámbricos,Electrónica,Under Armour,11702.8,7.0,2025-03-26,Distribuidora Nacional
+SKU-10656,Mancuernas de Neopreno 5kg,,Samsung,11630.69,297.0,16/12/2025,Distribuidora del Norte
+SKU-10657,Licuadora de Alta Potencia,Hogar y Cocina,Adidas,1586.75,46.0,2025-11-20,Distribuidora Nacional
+SKU-10658,Consola de Videojuegos 1TB,Electrónica,Under Armour,,274.0,2025-02-05,Distribuidora Global S.A.
+SKU-10659,Set de Brochas Cosméticas,Belleza,HP,932.91,224.0,2025-12-07,Distribuidora Sur Express
+SKU-10660,Aspiradora Robot Inteligente,hogar y cocina,Nike,2405.13,20.0,2025-08-23,Distribuidora Global S.A.
+SKU-10661,Set de Brochas Cosméticas,BELLEZA,Zara,554.65,95.0,2025-09-12,Distribuidora Sur Express
+SKU-10662,Cojín Decorativo Algodón,Hogar y Cocina,Lenovo,5078.78,35.0,2025-09-05,Distribuidora Global S.A.
+SKU-10663,  Kit de Maquillaje Profesional  ,Belleza,Zara,100.73,326.0,13/09/2025,Distribuidora Nacional
+SKU-10664,Kit de Maquillaje Profesional,belleza,HP,1588.09,164.0,03/12/2025,Distribuidora Comercial Integradora
+SKU-10665,Mancuernas de Neopreno 5kg,Deportes,Loreal,8246.21,282.0,2025-03-20,Distribuidora Sur Express
+SKU-10666,Licuadora de Alta Potencia,Hogar y Cocina,Sony,4803.16,34.0,27/01/2025,Distribuidora del Norte
+SKU-10667,Auriculares Bluetooth inalámbricos,Electrónica,Sony,12906.2,50.0,19/01/2025,Distribuidora Sur Express
+SKU-10668,Mochila de Senderismo 40L,Deportes,Maybelline,8460.57,131.0,2025-01-12,Distribuidora Nacional
+SKU-10669,Auriculares Bluetooth inalámbricos,Electrónica,Under Armour,13048.03,40.0,26/08/2025,Distribuidora Global S.A.
+SKU-10670,Set de Brochas Cosméticas,Belleza,Levis,2072.69,29.0,09/10/2025,Distribuidora Nacional
+SKU-10671,Licuadora de Alta Potencia,Hogar y Cocina,,8652.16,49.0,2025-02-24,Distribuidora Sur Express
+SKU-10672,  Camisa Casual Manga Larga  ,Ropa y Calzado,Loreal,,291.0,06/11/2025,Distribuidora Comercial Integradora
+SKU-10673,Botella de Agua Térmica,Deportes,Sony,9230.46,295.0,2025-06-22,Distribuidora Sur Express
+SKU-10674,Auriculares Bluetooth inalámbricos,,HP,5739.32,205.0,11/09/2025,Distribuidora Comercial Integradora
+SKU-10675,Secador de Cabello Iónico,Belleza,Philips,2265.87,281.0,2025-06-28,Distribuidora Sur Express
+SKU-10676,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,5154.67,109.0,25/07/2025,Distribuidora Global S.A.
+SKU-10677,Juego de Sábanas Matrimonial,Hogar y Cocina,Zara,8645.45,0.0,02/12/2025,Distribuidora Comercial Integradora
+SKU-10678,"Laptop Portátil 15.6""",ELECTRÓNICA,Nike,24845.18,154.0,10/01/2025,Distribuidora del Norte
+SKU-10679,Licuadora de Alta Potencia,Hogar y Cocina,HP,7432.07,141.0,17/09/2025,Distribuidora Comercial Integradora
+SKU-10680,Jeans de Mezclilla Hombre,,Samsung,963.57,79.0,2025-03-09,Distribuidora Comercial Integradora
+SKU-10681,Camisa Casual Manga Larga,Ropa y Calzado,Oster,1507.17,47.0,13/10/2025,Distribuidora del Norte
+SKU-10682,"Tablet HD 10""",Electrónica,Philips,20133.25,88.0,27/08/2025,Distribuidora Comercial Integradora
+SKU-10683,"Laptop Portátil 15.6""",electrónica,Under Armour,8559.24,295.0,03/07/2025,Distribuidora Global S.A.
+SKU-10684,  Juego de Sábanas Matrimonial  ,Hogar y Cocina,Levis,8385.17,,24/04/2025,Distribuidora Comercial Integradora
+SKU-10685,"Tablet HD 10""",Electrónica,HP,16356.55,27.0,2025-05-17,Distribuidora Comercial Integradora
+SKU-10686,Crema Hidratante Facial,belleza,Philips,1305.27,113.0,02/03/2025,Distribuidora Sur Express
+SKU-10687,Mochila de Senderismo 40L,DEPORTES,Maybelline,6131.04,113.0,10/07/2025,Distribuidora del Norte
+SKU-10688,Tenis Deportivos Running,ropa y calzado,Sony,987.57,25.0,2025-09-13,Distribuidora Sur Express
+SKU-10689,Secador de Cabello Iónico,,HP,,69.0,2025-08-18,Distribuidora Sur Express
+SKU-10690,Crema Hidratante Facial,Belleza,Loreal,1578.01,268.0,2025-04-08,Distribuidora Sur Express
+SKU-10691,Aspiradora Robot Inteligente,hogar y cocina,Maybelline,987.43,343.0,2025-07-14,Distribuidora del Norte
+SKU-10692,Juego de Sartenes Antiadherentes,Hogar y Cocina,Maybelline,5966.61,156.0,12/03/2025,Distribuidora Sur Express
+SKU-10693,Crema Hidratante Facial,Belleza,Zara,206.75,119.0,2025-04-22,Distribuidora Nacional
+SKU-10694,"Tablet HD 10""",Electrónica,Samsung,7211.64,317.0,28/03/2025,Distribuidora Global S.A.
+SKU-10695,Consola de Videojuegos 1TB,Electrónica,Xiaomi,20400.6,,2025-08-16,Distribuidora del Norte
+SKU-10696,  Crema Hidratante Facial  ,Belleza,Adidas,1410.96,132.0,16/09/2025,Distribuidora del Norte
+SKU-10697,Smartphone Android 128GB,Electrónica,Maybelline,22791.95,269.0,2025-01-09,Distribuidora Global S.A.
+SKU-10698,Sudadera con Capucha,Ropa y Calzado,Maybelline,670.49,238.0,2025-11-01,Distribuidora Global S.A.
+SKU-10699,Licuadora de Alta Potencia,Hogar y Cocina,Samsung,2772.96,332.0,08/07/2025,Distribuidora Comercial Integradora
+SKU-10700,Consola de Videojuegos 1TB,Electrónica,Zara,21869.16,272.0,2025-02-06,Distribuidora Sur Express
+SKU-10701,Set de Brochas Cosméticas,belleza,Samsung,194.45,271.0,2025-05-11,Distribuidora del Norte
+SKU-10702,Consola de Videojuegos 1TB,Electrónica,Under Armour,9769.96,320.0,08/05/2025,Distribuidora Comercial Integradora
+SKU-10703,Licuadora de Alta Potencia,Hogar y Cocina,Under Armour,2466.58,198.0,18/01/2025,Distribuidora del Norte
+SKU-10704,Tenis Deportivos Running,Ropa y Calzado,Levis,1268.24,44.0,13/12/2025,Distribuidora Comercial Integradora
+SKU-10705,Chaqueta de Invierno Impermeable,Ropa y Calzado,,1137.99,218.0,,Distribuidora Comercial Integradora
+SKU-10706,Camisa Casual Manga Larga,,Under Armour,464.79,277.0,2025-11-26,Distribuidora del Norte
+SKU-10707,Aspiradora Robot Inteligente,Hogar y Cocina,Xiaomi,8107.06,69.0,2025-07-25,Distribuidora Comercial Integradora
+SKU-10708,  Tenis Deportivos Running  ,Ropa y Calzado,Sony,1113.88,60.0,11/03/2025,Distribuidora del Norte
+SKU-10709,Consola de Videojuegos 1TB,Electrónica,Levis,24088.11,155.0,,Distribuidora Global S.A.
+SKU-10710,Camisa Casual Manga Larga,ropa y calzado,Sony,453.9,13.0,2025-10-20,Distribuidora Comercial Integradora
+SKU-10711,  Crema Hidratante Facial  ,Belleza,,656.47,13.0,03/06/2025,Distribuidora Sur Express
+SKU-10712,Vestido Casual de Verano,Ropa y Calzado,Lenovo,1187.3,332.0,06/06/2025,Distribuidora Sur Express
+SKU-10713,Mancuernas de Neopreno 5kg,deportes,Nike,,16.0,25/07/2025,Distribuidora Global S.A.
+SKU-10714,Mancuernas de Neopreno 5kg,Deportes,Xiaomi,8105.37,,2025-04-03,Distribuidora Sur Express
+SKU-10715,Secador de Cabello Iónico,Belleza,Xiaomi,,234.0,2025-04-14,Distribuidora Nacional
+SKU-10716,Set de Brochas Cosméticas,Belleza,Lenovo,1012.28,160.0,20/07/2025,Distribuidora Comercial Integradora
+SKU-10717,Sérum Ácido Hialurónico,Belleza,Loreal,1638.99,19.0,2025-09-04,Distribuidora Nacional
+SKU-10718,Vestido Casual de Verano,Ropa y Calzado,Loreal,863.2,20.0,,Distribuidora Nacional
+SKU-10719,Tenis Deportivos Running,Ropa y Calzado,Zara,866.96,,2025-05-15,Distribuidora Global S.A.
+SKU-10720,Perfume Floral Dama 100ml,Belleza,Xiaomi,1340.24,72.0,27/08/2025,Distribuidora Nacional
+SKU-10721,Perfume Floral Dama 100ml,Belleza,Nike,1968.73,279.0,2025-03-13,Distribuidora Sur Express
+SKU-10722,Auriculares Bluetooth inalámbricos,Electrónica,Zara,15372.41,103.0,2025-08-03,Distribuidora del Norte
+SKU-10723,"Televisor Smart TV 55""",Electrónica,Sony,18096.33,324.0,03/06/2025,Distribuidora Sur Express
+SKU-10724,Sérum Ácido Hialurónico,Belleza,Nike,1008.21,194.0,2025-01-25,Distribuidora Global S.A.
+SKU-10725,Set de Brochas Cosméticas,Belleza,Lenovo,459.37,74.0,25/03/2025,Distribuidora Sur Express
+SKU-10726,Juego de Sartenes Antiadherentes,Hogar y Cocina,Xiaomi,6962.95,228.0,2025-05-21,Distribuidora del Norte
+SKU-10727,Jeans de Mezclilla Hombre,Ropa y Calzado,Maybelline,1436.36,6.0,16/08/2025,Distribuidora Comercial Integradora
+SKU-10728,"Laptop Portátil 15.6""",Electrónica,Zara,7090.14,301.0,2025-11-16,Distribuidora Sur Express
+SKU-10729,"Laptop Portátil 15.6""",Electrónica,Maybelline,1654.47,280.0,20/05/2025,Distribuidora del Norte
+SKU-10730,Auriculares Bluetooth inalámbricos,,Nike,2794.0,178.0,05/01/2025,Distribuidora Comercial Integradora
+SKU-10731,Kit de Maquillaje Profesional,Belleza,Philips,2308.84,,14/02/2025,Distribuidora del Norte
+SKU-10732,Cojín Decorativo Algodón,Hogar y Cocina,,6284.32,304.0,26/10/2025,Distribuidora Sur Express
+SKU-10733,Kit de Maquillaje Profesional,Belleza,Samsung,322.6,153.0,12/06/2025,Distribuidora Nacional
+SKU-10734,Mochila de Senderismo 40L,Deportes,Sony,3620.07,68.0,23/02/2025,Distribuidora Global S.A.
+SKU-10735,Secador de Cabello Iónico,Belleza,,602.84,107.0,2025-10-02,Distribuidora Comercial Integradora
+SKU-10736,  Smartphone Android 128GB  ,Electrónica,Xiaomi,17683.38,147.0,20/07/2025,Distribuidora Global S.A.
+SKU-10737,Sérum Ácido Hialurónico,Belleza,Maybelline,948.6,66.0,2025-10-19,Distribuidora Sur Express
+SKU-10738,Mancuernas de Neopreno 5kg,DEPORTES,Maybelline,2907.75,148.0,2025-04-01,Distribuidora Sur Express
+SKU-10739,"Tablet HD 10""",Electrónica,Lenovo,6372.27,315.0,2025-07-14,Distribuidora Global S.A.
+SKU-10740,Set de Brochas Cosméticas,Belleza,Adidas,126.12,103.0,2025-12-10,Distribuidora Nacional
+SKU-10741,Juego de Sartenes Antiadherentes,Hogar y Cocina,Loreal,,3.0,2025-02-22,Distribuidora Sur Express
+SKU-10742,Sérum Ácido Hialurónico,Belleza,Samsung,2096.73,99.0,,Distribuidora Sur Express
+SKU-10743,Balón de Fútbol Profesional,deportes,Under Armour,1758.68,79.0,15/11/2025,Distribuidora Comercial Integradora
+SKU-10744,Juego de Sábanas Matrimonial,Hogar y Cocina,HP,7363.67,28.0,10/09/2025,Distribuidora Global S.A.
+SKU-10745,Sérum Ácido Hialurónico,Belleza,Samsung,599.04,350.0,26/06/2025,Distribuidora Global S.A.
+SKU-10746,Auriculares Bluetooth inalámbricos,Electrónica,Oster,21257.37,173.0,21/07/2025,Distribuidora del Norte
+SKU-10747,Sérum Ácido Hialurónico,Belleza,Levis,548.9,59.0,,Distribuidora Nacional
+SKU-10748,Juego de Sábanas Matrimonial,Hogar y Cocina,Sony,4573.08,121.0,15/06/2025,Distribuidora Global S.A.
+SKU-10749,Vestido Casual de Verano,Ropa y Calzado,Oster,521.27,191.0,2025-01-25,Distribuidora Nacional
+SKU-10750,Mochila de Senderismo 40L,Deportes,Samsung,9618.45,256.0,2025-03-07,Distribuidora Sur Express
+SKU-10751,Kit de Maquillaje Profesional,Belleza,HP,884.94,50.0,22/09/2025,Distribuidora del Norte
+SKU-10752,Smartphone Android 128GB,Electrónica,Levis,18271.42,267.0,2025-02-01,Distribuidora Nacional
+SKU-10753,Perfume Floral Dama 100ml,Belleza,Philips,1219.97,23.0,17/02/2025,Distribuidora Global S.A.
+SKU-10754,"Laptop Portátil 15.6""",,HP,8835.36,107.0,2025-06-07,Distribuidora Global S.A.
+SKU-10755,Kit de Maquillaje Profesional,belleza,HP,1158.12,60.0,2025-05-05,Distribuidora Nacional
+SKU-10756,"Laptop Portátil 15.6""",Electrónica,Loreal,13580.43,105.0,,Distribuidora Global S.A.
+SKU-10757,Sudadera con Capucha,Ropa y Calzado,HP,689.06,125.0,2025-03-03,Distribuidora Global S.A.
+SKU-10758,Secador de Cabello Iónico,Belleza,Samsung,411.31,241.0,2025-11-02,Distribuidora Nacional
+SKU-10759,Smartphone Android 128GB,Electrónica,Levis,5706.1,305.0,21/10/2025,Distribuidora Sur Express
+SKU-10760,Kit de Maquillaje Profesional,,Oster,896.93,101.0,,Distribuidora Comercial Integradora
+SKU-10761,Smartphone Android 128GB,Electrónica,Maybelline,4597.19,239.0,2025-02-15,Distribuidora Sur Express
+SKU-10762,Mancuernas de Neopreno 5kg,Deportes,Adidas,1853.1,315.0,2025-05-12,Distribuidora Global S.A.
+SKU-10763,Juego de Sábanas Matrimonial,Hogar y Cocina,Zara,465.32,243.0,2025-02-12,Distribuidora del Norte
+SKU-10764,Juego de Sartenes Antiadherentes,Hogar y Cocina,Maybelline,5256.17,260.0,13/02/2025,Distribuidora Nacional
+SKU-10765,Cojín Decorativo Algodón,Hogar y Cocina,Under Armour,823.13,154.0,2025-09-15,Distribuidora Sur Express
+SKU-10766,Vestido Casual de Verano,Ropa y Calzado,,1099.32,246.0,2025-07-03,Distribuidora Comercial Integradora
+SKU-10767,Bicicleta de Montaña R26,Deportes,Maybelline,9479.82,278.0,2025-12-08,Distribuidora Nacional
+SKU-10768,  Secador de Cabello Iónico  ,Belleza,Sony,1520.78,237.0,2025-06-18,Distribuidora Sur Express
+SKU-10769,Tenis Deportivos Running,Ropa y Calzado,Levis,357.89,55.0,27/11/2025,Distribuidora Sur Express
+SKU-10770,Juego de Sábanas Matrimonial,Hogar y Cocina,Under Armour,6008.45,46.0,2025-04-27,Distribuidora Comercial Integradora
+SKU-10771,Auriculares Bluetooth inalámbricos,Electrónica,Under Armour,5006.59,272.0,13/05/2025,Distribuidora Sur Express
+SKU-10772,Camisa Casual Manga Larga,Ropa y Calzado,Under Armour,1610.01,153.0,26/10/2025,Distribuidora Global S.A.
+SKU-10773,Botella de Agua Térmica,DEPORTES,Philips,11884.93,298.0,20/01/2025,Distribuidora Sur Express
+SKU-10774,Tenis Deportivos Running,Ropa y Calzado,Samsung,,281.0,01/01/2025,Distribuidora Global S.A.
+SKU-10775,Consola de Videojuegos 1TB,Electrónica,Lenovo,2232.84,221.0,2025-12-19,Distribuidora Global S.A.
+SKU-10776,Bicicleta de Montaña R26,Deportes,Levis,5307.0,108.0,2025-11-06,Distribuidora del Norte
+SKU-10777,Secador de Cabello Iónico,Belleza,Lenovo,2318.68,213.0,10/03/2025,Distribuidora del Norte
+SKU-10778,Jeans de Mezclilla Hombre,Ropa y Calzado,Sony,,73.0,,Distribuidora del Norte
+SKU-10779,Auriculares Bluetooth inalámbricos,Electrónica,Under Armour,20439.63,233.0,20/12/2025,Distribuidora Comercial Integradora
+SKU-10780,Chaqueta de Invierno Impermeable,Ropa y Calzado,Loreal,907.39,230.0,2025-07-12,Distribuidora Sur Express
+SKU-10781,Perfume Floral Dama 100ml,Belleza,Maybelline,1295.07,121.0,2025-12-17,Distribuidora Comercial Integradora
+SKU-10782,Kit de Maquillaje Profesional,Belleza,Samsung,2447.74,290.0,2025-08-23,Distribuidora Comercial Integradora
+SKU-10783,Botella de Agua Térmica,Deportes,Sony,1833.74,269.0,15/05/2025,Distribuidora Comercial Integradora
+SKU-10784,Perfume Floral Dama 100ml,Belleza,,1233.36,339.0,03/11/2025,Distribuidora Comercial Integradora
+SKU-10785,Kit de Maquillaje Profesional,Belleza,Maybelline,225.71,175.0,2025-09-25,Distribuidora Sur Express
+SKU-10786,Secador de Cabello Iónico,belleza,Maybelline,1860.89,215.0,2025-06-26,Distribuidora del Norte
+SKU-10787,"Tablet HD 10""",Electrónica,Maybelline,19111.49,288.0,02/05/2025,Distribuidora Comercial Integradora
+SKU-10788,Vestido Casual de Verano,Ropa y Calzado,Samsung,1267.3,149.0,2025-12-20,Distribuidora Sur Express
+SKU-10789,  Auriculares Bluetooth inalámbricos  ,Electrónica,Loreal,3306.26,142.0,05/05/2025,Distribuidora Global S.A.
+SKU-10790,Licuadora de Alta Potencia,Hogar y Cocina,Xiaomi,1180.63,89.0,,Distribuidora Sur Express
+SKU-10791,Cafetera de Filtro Eléctrica,Hogar y Cocina,Oster,7085.24,,06/08/2025,Distribuidora Nacional
+SKU-10792,Licuadora de Alta Potencia,hogar y cocina,Nike,5439.79,78.0,25/08/2025,Distribuidora Sur Express
+SKU-10793,Sudadera con Capucha,Ropa y Calzado,Zara,1375.3,85.0,19/04/2025,Distribuidora Global S.A.
+SKU-10794,"Tablet HD 10""",electrónica,Oster,,59.0,2025-01-06,Distribuidora Sur Express
+SKU-10795,Juego de Sábanas Matrimonial,Hogar y Cocina,Xiaomi,8543.62,272.0,13/04/2025,Distribuidora Sur Express
+SKU-10796,  Tapete de Yoga Antideslizante  ,Deportes,Nike,6435.74,222.0,10/01/2025,Distribuidora Sur Express
+SKU-10797,Botella de Agua Térmica,Deportes,Philips,11546.89,349.0,04/01/2025,Distribuidora Global S.A.
+SKU-10798,Mochila de Senderismo 40L,Deportes,Under Armour,10321.51,171.0,09/05/2025,Distribuidora Global S.A.
+SKU-10799,Secador de Cabello Iónico,Belleza,Zara,1955.34,123.0,22/12/2025,Distribuidora del Norte
+SKU-10696,Crema Hidratante Facial,BELLEZA,Adidas,1410.96,132.0,16/09/2025,Distribuidora del Norte
+SKU-10667,Auriculares Bluetooth inalámbricos,Electrónica,Sony,12906.2,50.0,19/01/2025,Distribuidora Sur Express
+SKU-10063,Mancuernas de Neopreno 5kg,Deportes,Nike,7924.29,2.0,2025-02-25,Distribuidora del Norte
+SKU-10533,Perfume Floral Dama 100ml,Belleza,Samsung,1013.47,27.0,2025-11-02,Distribuidora del Norte
+SKU-10066,Mochila de Senderismo 40L,Deportes,Zara,10781.92,243.0,09/08/2025,Distribuidora Global S.A.
+SKU-10621,Juego de Sábanas Matrimonial,Hogar y Cocina,Maybelline,3218.25,94.0,,Distribuidora Global S.A.
+SKU-10346,Crema Hidratante Facial,Belleza,,2494.48,247.0,2025-02-10,Distribuidora Nacional
+SKU-10490,Cojín Decorativo Algodón,Hogar y Cocina,Adidas,356.66,2.0,2025-11-24,Distribuidora Global S.A.
+SKU-10760,Kit de Maquillaje Profesional,Belleza,Oster,896.93,101.0,25/12/2025,Distribuidora Comercial Integradora
+SKU-10456,Balón de Fútbol Profesional,deportes,,5309.41,321.0,27/03/2025,Distribuidora Global S.A.
+SKU-10065,Sérum Ácido Hialurónico,Belleza,Philips,2380.05,226.0,27/10/2025,Distribuidora Comercial Integradora
+SKU-10286,Vestido Casual de Verano,Ropa y Calzado,Sony,320.2,176.0,03/12/2025,Distribuidora Nacional
+SKU-10635,Perfume Floral Dama 100ml,Belleza,Sony,729.15,79.0,21/02/2025,Distribuidora Sur Express
+SKU-10067,Secador de Cabello Iónico,,Under Armour,673.43,225.0,2025-02-23,Distribuidora Global S.A.
+SKU-10327,"Televisor Smart TV 55""",Electrónica,Oster,5124.19,324.0,2025-03-24,Distribuidora Global S.A.
+SKU-10395,Auriculares Bluetooth inalámbricos,Electrónica,Zara,23895.88,267.0,26/09/2025,Distribuidora Global S.A.
+SKU-10244,Consola de Videojuegos 1TB,Electrónica,Zara,7326.09,49.0,10/01/2025,Distribuidora Comercial Integradora
+SKU-10377,"Tablet HD 10""",Electrónica,Philips,7384.15,190.0,2025-11-21,Distribuidora Sur Express
+SKU-10610,Perfume Floral Dama 100ml,Belleza,Zara,378.16,34.0,21/07/2025,Distribuidora del Norte
+SKU-10526,Crema Hidratante Facial,Belleza,Xiaomi,1488.11,65.0,13/02/2025,Distribuidora Comercial Integradora
+SKU-10658,Consola de Videojuegos 1TB,Electrónica,Under Armour,5117.08,274.0,2025-02-05,Distribuidora Global S.A.
+SKU-10529,Aspiradora Robot Inteligente,Hogar y Cocina,Loreal,7773.23,283.0,2025-11-07,Distribuidora Comercial Integradora
+SKU-10622,Juego de Sábanas Matrimonial,Hogar y Cocina,Oster,,292.0,19/03/2025,Distribuidora Nacional
+SKU-10721,Perfume Floral Dama 100ml,Belleza,Nike,1968.73,279.0,2025-03-13,Distribuidora Sur Express
+SKU-10360,Mancuernas de Neopreno 5kg,Deportes,Adidas,9810.31,287.0,2025-09-21,Distribuidora Sur Express
+SKU-10030,Bicicleta de Montaña R26,Deportes,Zara,,205.0,2025-01-06,Distribuidora Sur Express
+SKU-10260,"Tablet HD 10""",Electrónica,Nike,13689.06,287.0,2025-06-22,Distribuidora Sur Express
+SKU-10637,"Televisor Smart TV 55""",Electrónica,Under Armour,9885.77,166.0,15/08/2025,Distribuidora Comercial Integradora
+SKU-10746,Auriculares Bluetooth inalámbricos,Electrónica,Oster,21257.37,,21/07/2025,Distribuidora del Norte
+SKU-10570,Kit de Maquillaje Profesional,Belleza,Loreal,2245.46,276.0,21/08/2025,Distribuidora Global S.A.
+SKU-10215,Botella de Agua Térmica,Deportes,Nike,9766.25,32.0,,Distribuidora Nacional
+SKU-10078,"Laptop Portátil 15.6""",Electrónica,Adidas,12428.3,131.0,06/06/2025,Distribuidora Nacional
+SKU-10578,Mancuernas de Neopreno 5kg,Deportes,Loreal,4959.23,176.0,,Distribuidora Comercial Integradora
+SKU-10383,Chaqueta de Invierno Impermeable,Ropa y Calzado,Maybelline,1314.18,,2025-02-04,Distribuidora Nacional
+SKU-10039,Cafetera de Filtro Eléctrica,Hogar y Cocina,Zara,7535.96,,26/10/2025,Distribuidora Nacional
+SKU-10023,Vestido Casual de Verano,ropa y calzado,Adidas,261.15,323.0,,Distribuidora Nacional
+SKU-10692,Juego de Sartenes Antiadherentes,Hogar y Cocina,Maybelline,5966.61,156.0,12/03/2025,Distribuidora Sur Express
+SKU-10398,Mochila de Senderismo 40L,Deportes,Philips,806.95,290.0,,Distribuidora Nacional
+SKU-10796,Tapete de Yoga Antideslizante,Deportes,Nike,6435.74,222.0,10/01/2025,Distribuidora Sur Express
+SKU-10741,Juego de Sartenes Antiadherentes,HOGAR Y COCINA,Loreal,5038.94,3.0,2025-02-22,Distribuidora Sur Express
