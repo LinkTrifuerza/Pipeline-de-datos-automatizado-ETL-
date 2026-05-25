@@ -10,7 +10,7 @@ def ejecutar_limpieza(df_ventas, df_usuarios):
     df_inventario = pd.read_csv("INVENTARIO.csv")
     print(f"Se cargó inventario.csv con {df_inventario.shape[0]} filas.")
 
-    # 2. Requisito Rúbrica: Detectar y corregir nulos en inventario.csv
+    # 2. Detectar y corregir nulos en inventario.csv
     nulos_detectados = df_inventario.isna().sum().sum()
     print(f"\n Detectando valores nulos")
     print(f"Valores nulos detectados en Inventario: {nulos_detectados}")
