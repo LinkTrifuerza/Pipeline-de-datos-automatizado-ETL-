@@ -1,4 +1,5 @@
 import pandas as pd
+from thefuzz import process
 
 def ejecutar_limpieza(df_ventas, df_usuarios):
     print("\n" + "="*50)
@@ -10,37 +11,44 @@ def ejecutar_limpieza(df_ventas, df_usuarios):
     df_inventario = pd.read_csv("INVENTARIO.csv")
     print(f"Se cargó inventario.csv con {df_inventario.shape[0]} filas.")
 
-    # 2. Detectar y corregir nulos en inventario.csv
+    # 2. Detectar y corregir nulos
     nulos_detectados = df_inventario.isna().sum().sum()
-    print(f"\n Detectando valores nulos")
-    print(f"Valores nulos detectados en Inventario: {nulos_detectados}")
-    df_inventario_limpio = df_inventario.fillna(0) # Imputación de nulos con 0
-    print("Valores nulos corregidos con éxito.")
-    
-    # Eliminar transacciones duplicadas en el SQL (Ventas)
-    total_antes = df_ventas.shape[0]
-    df_ventas_limpio = df_ventas.drop_duplicates(subset=["id_transaccion"])
-    duplicados_eliminados = total_antes - df_ventas_limpio.shape[0]
-    print(f"\n Eliminando duplicados de SQL")
-    print(f"Transacciones duplicadas eliminadas en Ventas: {duplicados_eliminados}")
-    
-    # 4. Limpieza de strings en categorías
-    print(f"\n Limpiando strings en categorías de Geolocalización")
-    if 'geolocalizacion' in df_usuarios.columns:
-        # Pasamos a minúsculas y quitamos espacios en blanco
-        df_usuarios['geolocalizacion'] = df_usuarios['geolocalizacion'].str.lower().str.strip()
-        # Estandarizamos las variaciones solicitadas ("mex", "mx" -> "México")
-        df_usuarios['geolocalizacion'] = df_usuarios['geolocalizacion'].replace(['mex', 'mx', 'mexico'], 'México')
-        print("Categorías geográficas estandarizadas homogéneamente.")
+    print(f"\n Detectando valores nulos: {nulos_detectados}")
+    df_inventario_limpio = df_inventario.fillna(0) 
 
-    # 5. Enriquecimiento mediante Left Join (Ventas SQL + Perfiles NoSQL)
-    print(f"\n[ETL - Enriquecimiento] 4. Aplicando Pandas Left Join mediante llave id_cliente")
-    df_master_limpio = pd.merge(df_ventas_limpio, df_usuarios, on="id_cliente", how="left")
-    print(f"Dataset unificado, tamaño del repositorio: {df_master_limpio.shape[0]} filas.")
+    # 3. Eliminar duplicados en Ventas
+    df_ventas_limpio = df_ventas.drop_duplicates(subset=["id_transaccion"])
     
-    # Guardamos el archivo final 
+    # 4. Limpieza y estradarizacion de ciudades y estados
+    # --- Aplanamiento de JSON ---
+    if 'localizacion' in df_usuarios.columns:
+        print("\n Aplanando estructura de localización...")
+        loc_df = pd.json_normalize(df_usuarios['localizacion'])
+        loc_df.columns = ['ciudad', 'estado']
+        df_usuarios = pd.concat([df_usuarios.drop(columns=['localizacion']), loc_df], axis=1)
+
+# --- Definición de función de limpieza ---
+    def aplicar_fuzzy(df, col, ref):
+        if col in df.columns:
+            # Añadimos .strip() justo después de str(x) para remover espacios vacíos
+            df[col] = df[col].apply(lambda x: process.extractOne(str(x).strip(), ref)[0] 
+                                    if process.extractOne(str(x).strip(), ref)[1] >= 80 else str(x).strip())
+            print(f"Columna '{col}' normalizada.")
+
+    # Catálogos maestros
+    cat_estados = ["Aguascalientes", "Baja California", "Baja California Sur", "Campeche", "Chiapas", "Chihuahua", "Ciudad de México", "Coahuila", "Colima", "Durango", "Guanajuato", "Guerrero", "Hidalgo", "Jalisco", "Estado de México", "Michoacán", "Morelos", "Nayarit", "Nuevo León", "Oaxaca", "Puebla", "Querétaro", "Quintana Roo", "San Luis Potosí", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz", "Yucatán", "Zacatecas"]
+    cat_capitales = ["Aguascalientes", "Mexicali", "La Paz", "Campeche", "Tuxtla Gutiérrez", "Chihuahua", "Ciudad de México", "Saltillo", "Colima", "Durango", "Guanajuato", "Chilpancingo", "Pachuca", "Guadalajara", "Toluca", "Morelia", "Cuernavaca", "Tepic", "Monterrey", "Oaxaca", "Puebla", "Querétaro", "Chetumal", "San Luis Potosí", "Culiacán", "Hermosillo", "Villahermosa", "Ciudad Victoria", "Tlaxcala", "Xalapa", "Mérida", "Zacatecas"]
+
+    # Ejecución de la limpieza
+    print(f"\n Normalizando de localizacion")
+    aplicar_fuzzy(df_usuarios, 'estado', cat_estados)
+    aplicar_fuzzy(df_usuarios, 'ciudad', cat_capitales)
+
+    # 5. Enriquecimiento
+    print(f"\n Aplicando Pandas Left Join")
+    df_master_limpio = pd.merge(df_ventas_limpio, df_usuarios, on="id_cliente", how="left")
+    
     df_master_limpio.to_csv("datos_fase_limpieza.csv", index=False)
-    print("\n Archivo 'datos_fase_limpieza.csv' exportado con éxito para Analítica Avanzada.")
-    print("="*50 + "\n")
+    print("\n Archivo 'datos_fase_limpieza.csv' exportado con éxito.")
     
     return df_master_limpio

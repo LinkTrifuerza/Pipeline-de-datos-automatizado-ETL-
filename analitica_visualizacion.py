@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 def ejecutar_analitica():
     print("\n" + "="*50)
-    print("Iinciando analitica avanzada y visualizacion")
+    print("Iniciando analitica avanzada y visualizacion")
     print("="*50)
     
     print("Cargando datos")
@@ -63,13 +63,17 @@ def ejecutar_analitica():
         "comportamiento_6", "comportamiento_7", "comportamiento_8"
     ]
 
-    print("\nAplicando escalado Min-Max")
+    print("\nAplicando escalado Min-Max...")
     scaler = MinMaxScaler()
-    variables_escaladas = scaler.fit_transform(df[variables_pca])
+    
+    # CORRECCIÓN: Sobrescribimos las columnas originales con los datos escalados [0, 1]
+    df[variables_pca] = scaler.fit_transform(df[variables_pca])
+    
+    print(f"Escalado completado. Ejemplo de gastos normalizados:\n{df['gastos_mensuales'].head()}")
 
     print("\nEjecutando PCA (3 componentes)")
     pca = PCA(n_components=3)
-    componentes = pca.fit_transform(variables_escaladas)
+    componentes = pca.fit_transform(df[variables_pca])
 
     df["PCA_1"] = componentes[:, 0]
     df["PCA_2"] = componentes[:, 1]
@@ -110,12 +114,9 @@ def ejecutar_analitica():
             line=dict(color="black", width=0.5),
             label=["Visitas Web", "Checkout", "Compra Final"]
         ),
-
         link=dict(source=[0, 1], target=[1, 2], value=[visitas, compras])
     )])
     
-    _ = checkout 
-
     fig.update_layout(title_text="Embudo de Conversión (Sankey)", font_size=12)
     fig.write_html("sankey_clientes.html")
 
@@ -124,11 +125,7 @@ def ejecutar_analitica():
 
     print("\n" + "="*50)
     print("Exito al ejecutar")
-    print("Archivos generados")
-    print(" data_master_clean.csv (Tabla Maestra)")
-    print("boxplot_montos.png (Gráfica Estática)")
-    print("scatter_pca.png (Gráfica Estática)")
-    print("sankey_clientes.html (Gráfica Interactiva)")
+    print("Archivos generados: data_master_clean.csv, boxplot_montos.png, scatter_pca.png, sankey_clientes.html")
     print("="*50)
 
 if __name__ == "__main__":
